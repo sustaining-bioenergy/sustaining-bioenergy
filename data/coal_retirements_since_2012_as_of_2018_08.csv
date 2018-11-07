@@ -1,0 +1,436 @@
+Entity ID,Entity Name,Plant ID,Plant Name,Sector,Plant State,Generator ID,Unit Code,Nameplate Capacity (MW),Net Summer Capacity (MW),Net Winter Capacity (MW),Technology,Energy Source Code,Prime Mover Code,Retirement Month,Retirement Year,Operating Month,Operating Year,County,Latitude,Longitude,Balancing Authority Code
+13756,Northern Indiana Pub Serv Co,995,Bailly,Electric Utility,IN,7,,190.4,160.0,160.0,Conventional Steam Coal,BIT,ST,6,2018,11,1962,Porter,41.645000,-87.122500,MISO
+13756,Northern Indiana Pub Serv Co,995,Bailly,Electric Utility,IN,8,,413.1,320.0,320.0,Conventional Steam Coal,BIT,ST,6,2018,7,1968,Porter,41.645000,-87.122500,MISO
+60415,"CP Crane Power, LLC",1552,"CP Crane Power, LLC",IPP Non-CHP,MD,1,,190.4,190.0,190.0,Conventional Steam Coal,SUB,ST,6,2018,7,1961,Baltimore,39.323604,-76.365120,PJM
+60415,"CP Crane Power, LLC",1552,"CP Crane Power, LLC",IPP Non-CHP,MD,2,,209.4,195.0,195.0,Conventional Steam Coal,SUB,ST,6,2018,2,1963,Baltimore,39.323604,-76.365120,PJM
+4922,Dayton Power & Light Co,2850,J M Stuart,Electric Utility,OH,2,,610.2,577.0,577.0,Conventional Steam Coal,BIT,ST,6,2018,10,1970,Adams,38.636100,-83.693900,PJM
+4922,Dayton Power & Light Co,2850,J M Stuart,Electric Utility,OH,3,,610.2,577.0,577.0,Conventional Steam Coal,BIT,ST,6,2018,5,1972,Adams,38.636100,-83.693900,PJM
+4922,Dayton Power & Light Co,2850,J M Stuart,Electric Utility,OH,4,,610.2,577.0,577.0,Conventional Steam Coal,BIT,ST,6,2018,6,1974,Adams,38.636100,-83.693900,PJM
+4922,Dayton Power & Light Co,6031,Killen Station,Electric Utility,OH,2,,660.6,600.0,600.0,Conventional Steam Coal,BIT,ST,6,2018,6,1982,Adams,38.690300,-83.480300,PJM
+20847,Wisconsin Electric Power Co,6170,Pleasant Prairie,Electric Utility,WI,1,,616.6,594.0,594.0,Conventional Steam Coal,RC,ST,4,2018,6,1980,Kenosha,42.538100,-87.903300,MISO
+20847,Wisconsin Electric Power Co,6170,Pleasant Prairie,Electric Utility,WI,2,,616.6,594.0,594.0,Conventional Steam Coal,RC,ST,4,2018,7,1985,Kenosha,42.538100,-87.903300,MISO
+18642,Tennessee Valley Authority,3393,Allen,Electric Utility,TN,1,,330.0,247.0,250.0,Conventional Steam Coal,SUB,ST,3,2018,5,1959,Shelby,35.074087,-90.148680,TVA
+18642,Tennessee Valley Authority,3393,Allen,Electric Utility,TN,2,,330.0,247.0,250.0,Conventional Steam Coal,SUB,ST,3,2018,5,1959,Shelby,35.074087,-90.148680,TVA
+18642,Tennessee Valley Authority,3393,Allen,Electric Utility,TN,3,,330.0,247.0,250.0,Conventional Steam Coal,SUB,ST,3,2018,10,1959,Shelby,35.074087,-90.148680,TVA
+55983,Luminant Generation Company LLC,3497,Big Brown,IPP Non-CHP,TX,1,,593.4,606.0,606.0,Conventional Steam Coal,SUB,ST,2,2018,12,1971,Freestone,31.820600,-96.054400,ERCO
+55983,Luminant Generation Company LLC,3497,Big Brown,IPP Non-CHP,TX,2,,593.4,602.0,602.0,Conventional Steam Coal,SUB,ST,2,2018,12,1972,Freestone,31.820600,-96.054400,ERCO
+9617,JEA,207,St Johns River Power Park,Electric Utility,FL,1,,679.0,626.0,638.0,Conventional Steam Coal,BIT,ST,1,2018,4,1987,Duval,30.430800,-81.550800,JEA
+9617,JEA,207,St Johns River Power Park,Electric Utility,FL,2,,679.0,626.0,638.0,Conventional Steam Coal,BIT,ST,1,2018,7,1988,Duval,30.430800,-81.550800,JEA
+55983,Luminant Generation Company LLC,6147,Monticello,IPP Non-CHP,TX,1,,593.4,535.0,580.0,Conventional Steam Coal,SUB,ST,1,2018,12,1974,Titus,33.091700,-95.041700,ERCO
+55983,Luminant Generation Company LLC,6147,Monticello,IPP Non-CHP,TX,2,,593.4,535.0,580.0,Conventional Steam Coal,SUB,ST,1,2018,12,1975,Titus,33.091700,-95.041700,ERCO
+55983,Luminant Generation Company LLC,6147,Monticello,IPP Non-CHP,TX,3,,793.2,795.0,795.0,Conventional Steam Coal,SUB,ST,1,2018,6,1995,Titus,33.091700,-95.041700,ERCO
+55983,Luminant Generation Company LLC,6648,Sandow No 4,IPP Non-CHP,TX,4,,590.6,600.0,600.0,Conventional Steam Coal,LIG,ST,1,2018,5,1981,Milam,30.565871,-97.064030,ERCO
+55983,Luminant Generation Company LLC,52071,Sandow No 5,IPP Non-CHP,TX,5,,661.5,600.0,600.0,Conventional Steam Coal,LIG,ST,1,2018,1,2010,Milam,30.568100,-97.061400,ERCO
+17833,City Utilities of Springfield - (MO),2161,James River Power Station,Electric Utility,MO,1,,22.0,21.0,21.0,Conventional Steam Coal,SUB,ST,12,2017,8,1957,Greene,37.108611,-93.261940,SWPP
+17833,City Utilities of Springfield - (MO),2161,James River Power Station,Electric Utility,MO,2,,22.0,21.0,21.0,Conventional Steam Coal,SUB,ST,12,2017,6,1957,Greene,37.108611,-93.261940,SWPP
+17833,City Utilities of Springfield - (MO),2161,James River Power Station,Electric Utility,MO,3,,44.0,41.0,41.0,Conventional Steam Coal,SUB,ST,12,2017,2,1960,Greene,37.108611,-93.261940,SWPP
+15473,Public Service Co of NM,2451,San Juan,Electric Utility,NM,2,,369.0,340.0,340.0,Conventional Steam Coal,BIT,ST,12,2017,11,1973,San Juan,36.800600,-108.438600,PNM
+15473,Public Service Co of NM,2451,San Juan,Electric Utility,NM,3,,555.0,497.0,497.0,Conventional Steam Coal,BIT,ST,12,2017,12,1979,San Juan,36.800600,-108.438600,PNM
+18642,Tennessee Valley Authority,3406,Johnsonville,Electric Utility,TN,1,,125.0,107.0,113.0,Conventional Steam Coal,SUB,ST,12,2017,10,1951,Humphreys,36.027800,-87.986100,TVA
+18642,Tennessee Valley Authority,3406,Johnsonville,Electric Utility,TN,2,,125.0,107.0,113.0,Conventional Steam Coal,SUB,ST,12,2017,11,1951,Humphreys,36.027800,-87.986100,TVA
+18642,Tennessee Valley Authority,3406,Johnsonville,Electric Utility,TN,3,,125.0,107.0,113.0,Conventional Steam Coal,SUB,ST,12,2017,2,1952,Humphreys,36.027800,-87.986100,TVA
+18642,Tennessee Valley Authority,3406,Johnsonville,Electric Utility,TN,4,,125.0,107.0,113.0,Conventional Steam Coal,SUB,ST,12,2017,4,1952,Humphreys,36.027800,-87.986100,TVA
+733,Appalachian Power Co,3936,Kanawha River,Electric Utility,WV,1,,219.6,200.0,200.0,Conventional Steam Coal,BIT,ST,12,2017,7,1953,Kanawha,38.205600,-81.421100,PJM
+733,Appalachian Power Co,3936,Kanawha River,Electric Utility,WV,2,,219.6,200.0,200.0,Conventional Steam Coal,BIT,ST,12,2017,12,1953,Kanawha,38.205600,-81.421100,PJM
+5109,DTE Electric Company,1743,St Clair,Electric Utility,MI,4,,168.7,151.0,158.0,Conventional Steam Coal,RC,ST,11,2017,10,1954,St Clair,42.764200,-82.471900,MISO
+4922,Dayton Power & Light Co,2850,J M Stuart,Electric Utility,OH,1,,610.2,577.0,577.0,Conventional Steam Coal,BIT,ST,10,2017,5,1971,Adams,38.636100,-83.693900,PJM
+15466,Public Service Co of Colorado,477,Valmont,Electric Utility,CO,5,,191.7,184.0,184.0,Conventional Steam Coal,BIT,ST,9,2017,5,1964,Boulder,40.019500,-105.202000,PSCO
+58534,Brayton Point Energy LLC,1619,Brayton Point,IPP Non-CHP,MA,1,,241.0,225.2,233.2,Conventional Steam Coal,BIT,ST,6,2017,8,1963,Bristol,41.710300,-71.193100,ISNE
+58534,Brayton Point Energy LLC,1619,Brayton Point,IPP Non-CHP,MA,2,,241.0,237.8,236.9,Conventional Steam Coal,BIT,ST,6,2017,7,1964,Bristol,41.710300,-71.193100,ISNE
+58534,Brayton Point Energy LLC,1619,Brayton Point,IPP Non-CHP,MA,3,,642.6,575.0,584.9,Conventional Steam Coal,BIT,ST,6,2017,8,1969,Bristol,41.710300,-71.193100,ISNE
+8723,City of Holland,1830,James De Young,Electric Utility,MI,4,,22.0,20.5,20.5,Conventional Steam Coal,BIT,ST,6,2017,5,1962,Ottawa,42.795600,-86.113300,MISO
+8723,City of Holland,1830,James De Young,Electric Utility,MI,5,,29.3,27.0,27.0,Conventional Steam Coal,BIT,ST,6,2017,6,1969,Ottawa,42.795600,-86.113300,MISO
+56211,KCP&L Greater Missouri Operations Co,2094,Sibley,Electric Utility,MO,1,,55.0,42.2,42.2,Conventional Steam Coal,SUB,ST,6,2017,6,1960,Jackson,39.178319,-94.184450,SWPP
+15147,PSEG Fossil LLC,2408,PSEG Mercer Generating Station,IPP Non-CHP,NJ,1,,326.4,316.0,316.0,Conventional Steam Coal,BIT,ST,6,2017,12,1960,Mercer,40.179200,-74.733900,PJM
+15147,PSEG Fossil LLC,2408,PSEG Mercer Generating Station,IPP Non-CHP,NJ,2,,326.4,316.0,316.0,Conventional Steam Coal,BIT,ST,6,2017,6,1961,Mercer,40.179200,-74.733900,PJM
+18642,Tennessee Valley Authority,1378,Paradise,Electric Utility,KY,1,,704.0,628.0,659.0,Conventional Steam Coal,BIT,ST,4,2017,11,1963,Muhlenberg,37.260800,-86.978300,TVA
+18642,Tennessee Valley Authority,1378,Paradise,Electric Utility,KY,2,,704.0,602.0,633.0,Conventional Steam Coal,BIT,ST,4,2017,5,1963,Muhlenberg,37.260800,-86.978300,TVA
+13407,Nevada Power Co,2324,Reid Gardner,Electric Utility,NV,4,,294.8,257.0,255.0,Conventional Steam Coal,BIT,ST,3,2017,7,1983,Clark,36.657347,-114.633300,NEVP
+7570,Great River Energy,2824,Stanton,Electric Utility,ND,1,,190.2,187.2,187.2,Conventional Steam Coal,SUB,ST,3,2017,4,1967,Mercer,47.286643,-101.331900,MISO
+55808,Westmoreland Partners,54035,Roanoke Valley Energy Facility I,IPP CHP,NC,GEN1,,182.3,165.0,167.2,Conventional Steam Coal,BIT,ST,2,2017,3,1994,Halifax,36.436400,-77.616700,PJM
+55808,Westmoreland Partners,54755,Roanoke Valley Energy Facility II,IPP CHP,NC,GEN2,,57.8,44.0,45.1,Conventional Steam Coal,BIT,ST,2,2017,2,1995,Halifax,36.436400,-77.616700,PJM
+19204,City of Trinidad - (CO),511,Trinidad (CO),Electric Utility,CO,1,,3.7,3.8,3.8,Conventional Steam Coal,BIT,ST,1,2017,5,1950,Las Animas,37.178979,-104.487500,WACM
+57440,"SABIC IP Mt. Vernon, LLC",58063,SABIC Innovative Plastics Mt. Vernon,Industrial CHP,IN,1,,5.5,3.0,3.0,Conventional Steam Coal,BIT,ST,1,2017,6,1996,Posey,37.910278,-87.926110,MISO
+3989,City of Colorado Springs - (CO),492,Martin Drake,Electric Utility,CO,5,,50.0,46.0,46.0,Conventional Steam Coal,SUB,ST,12,2016,11,1962,El Paso,38.824444,-104.833300,WACM
+15470,"Duke Energy Indiana, LLC",1010,Wabash River,Electric Utility,IN,6,,387.0,318.0,318.0,Conventional Steam Coal,BIT,ST,12,2016,8,1968,Vigo,39.530000,-87.424700,MISO
+11732,City of Marshall - (MO),2144,Marshall (MO),Electric Utility,MO,5,,16.5,16.0,16.2,Conventional Steam Coal,BIT,ST,12,2016,7,1967,Saline,39.122800,-93.206400,SWPP
+56730,Cedar Bay Operating Services LLC,10672,Cedar Bay Generating Company LP,IPP CHP,FL,GEN1,,291.6,250.0,250.0,Conventional Steam Coal,BIT,ST,12,2016,1,1994,Duval,30.422500,-81.606400,JEA
+14310,P H Glatfelter Co,50397,P H Glatfelter,Industrial CHP,PA,GEN2,,5.9,4.0,3.9,Conventional Steam Coal,BIT,ST,12,2016,4,1975,York,39.870935,-76.868120,PJM
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,Industrial CHP,UT,1,,50.0,50.0,50.0,Conventional Steam Coal,BIT,ST,10,2016,1,1943,Salt Lake,40.711900,-112.122500,PACE
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,Industrial CHP,UT,2,,25.0,25.0,25.0,Conventional Steam Coal,BIT,ST,10,2016,1,1943,Salt Lake,40.711900,-112.122500,PACE
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,Industrial CHP,UT,3,,25.0,25.0,25.0,Conventional Steam Coal,BIT,ST,10,2016,1,1946,Salt Lake,40.711900,-112.122500,PACE
+520,Illinois Power Generating Co,6017,Newton,IPP Non-CHP,IL,2,,617.4,600.0,615.0,Conventional Steam Coal,RC,ST,9,2016,12,1982,Jasper,38.936100,-88.278100,MISO
+7140,Georgia Power Co,727,Mitchell (GA),Electric Utility,GA,3,,163.2,155.0,155.0,Conventional Steam Coal,BIT,ST,8,2016,5,1964,Dougherty,31.444728,-84.134700,SOCO
+11732,City of Marshall - (MO),2144,Marshall (MO),Electric Utility,MO,4,,6.0,5.8,5.9,Conventional Steam Coal,BIT,ST,7,2016,7,1956,Saline,39.122800,-93.206400,SWPP
+49923,American Eagle Paper Mills,50284,American Eagle Paper Mills,Industrial CHP,PA,TG3,,2.5,2.5,2.5,Conventional Steam Coal,BIT,ST,7,2016,1,1929,Blair,40.679853,-78.233460,PJM
+49923,American Eagle Paper Mills,50284,American Eagle Paper Mills,Industrial CHP,PA,TG4,,4.5,4.5,4.5,Conventional Steam Coal,BIT,ST,7,2016,1,1930,Blair,40.679853,-78.233460,PJM
+49923,American Eagle Paper Mills,50284,American Eagle Paper Mills,Industrial CHP,PA,TG5,,3.0,3.0,3.0,Conventional Steam Coal,BIT,ST,7,2016,1,1936,Blair,40.679853,-78.233460,PJM
+49923,American Eagle Paper Mills,50284,American Eagle Paper Mills,Industrial CHP,PA,TG6,,7.5,7.0,7.1,Conventional Steam Coal,BIT,ST,7,2016,1,1958,Blair,40.679853,-78.233460,PJM
+5109,DTE Electric Company,1740,River Rouge,Electric Utility,MI,2,,292.5,251.0,260.0,Conventional Steam Coal,SUB,ST,6,2016,11,1957,Wayne,42.273900,-83.111900,MISO
+8723,City of Holland,1830,James De Young,Electric Utility,MI,3,,11.5,10.5,10.5,Conventional Steam Coal,BIT,ST,6,2016,4,1951,Ottawa,42.795600,-86.113300,MISO
+5517,Dynegy Midwest Generation Inc,898,Wood River,IPP Non-CHP,IL,4,,112.5,89.0,91.0,Conventional Steam Coal,RC,ST,5,2016,6,1954,Madison,38.863900,-90.134700,MISO
+5517,Dynegy Midwest Generation Inc,898,Wood River,IPP Non-CHP,IL,5,,387.6,371.0,374.0,Conventional Steam Coal,RC,ST,5,2016,7,1964,Madison,38.863900,-90.134700,MISO
+14165,NRG Power Midwest LP,2836,Avon Lake,IPP Non-CHP,OH,7,,86.0,70.0,70.0,Conventional Steam Coal,BIT,ST,5,2016,1,1949,Lorain,41.504453,-82.054620,PJM
+12807,Michigan South Central Power Agency,4259,Endicott Station,Electric Utility,MI,1,,55.0,55.0,55.0,Conventional Steam Coal,BIT,ST,5,2016,12,1982,Hillsdale,42.031700,-84.755000,MISO
+9667,City of Jasper - (IN),6225,Jasper 2,Electric Utility,IN,1,,14.5,13.6,13.6,Conventional Steam Coal,BIT,ST,5,2016,9,1968,Dubois,38.400400,-86.914600,MISO
+56217,Portsmouth Operating Services LLC,10071,Portsmouth Genco LLC,IPP Non-CHP,VA,GEN1,,57.4,57.5,57.5,Conventional Steam Coal,BIT,ST,5,2016,6,1988,Portsmouth City,36.870200,-76.352900,PJM
+56217,Portsmouth Operating Services LLC,10071,Portsmouth Genco LLC,IPP Non-CHP,VA,GEN2,,57.4,57.5,57.5,Conventional Steam Coal,BIT,ST,5,2016,6,1988,Portsmouth City,36.870200,-76.352900,PJM
+18642,Tennessee Valley Authority,47,Colbert,Electric Utility,AL,1,,200.0,178.0,182.0,Conventional Steam Coal,BIT,ST,4,2016,1,1955,Colbert,34.743900,-87.848600,TVA
+18642,Tennessee Valley Authority,47,Colbert,Electric Utility,AL,2,,200.0,178.0,182.0,Conventional Steam Coal,BIT,ST,4,2016,3,1955,Colbert,34.743900,-87.848600,TVA
+18642,Tennessee Valley Authority,47,Colbert,Electric Utility,AL,3,,200.0,178.0,182.0,Conventional Steam Coal,BIT,ST,4,2016,7,1955,Colbert,34.743900,-87.848600,TVA
+18642,Tennessee Valley Authority,47,Colbert,Electric Utility,AL,4,,200.0,178.0,182.0,Conventional Steam Coal,BIT,ST,4,2016,11,1955,Colbert,34.743900,-87.848600,TVA
+18642,Tennessee Valley Authority,47,Colbert,Electric Utility,AL,5,,550.0,472.0,481.0,Conventional Steam Coal,BIT,ST,4,2016,11,1965,Colbert,34.743900,-87.848600,TVA
+9273,Indianapolis Power & Light Co,991,Eagle Valley (IN),Electric Utility,IN,3,,50.0,40.0,40.0,Conventional Steam Coal,BIT,ST,4,2016,12,1951,Morgan,39.485170,-86.418300,MISO
+9273,Indianapolis Power & Light Co,991,Eagle Valley (IN),Electric Utility,IN,4,,69.0,56.0,57.0,Conventional Steam Coal,BIT,ST,4,2016,1,1953,Morgan,39.485170,-86.418300,MISO
+9273,Indianapolis Power & Light Co,991,Eagle Valley (IN),Electric Utility,IN,5,,69.0,62.0,63.0,Conventional Steam Coal,BIT,ST,4,2016,12,1953,Morgan,39.485170,-86.418300,MISO
+9273,Indianapolis Power & Light Co,991,Eagle Valley (IN),Electric Utility,IN,6,,113.6,99.0,100.0,Conventional Steam Coal,BIT,ST,4,2016,10,1956,Morgan,39.485170,-86.418300,MISO
+15470,"Duke Energy Indiana, LLC",1010,Wabash River,Electric Utility,IN,2,,112.5,85.0,85.0,Conventional Steam Coal,BIT,ST,4,2016,8,1953,Vigo,39.530000,-87.424700,MISO
+15470,"Duke Energy Indiana, LLC",1010,Wabash River,Electric Utility,IN,3,,123.2,85.0,85.0,Conventional Steam Coal,BIT,ST,4,2016,9,1954,Vigo,39.530000,-87.424700,MISO
+15470,"Duke Energy Indiana, LLC",1010,Wabash River,Electric Utility,IN,4,,112.5,85.0,85.0,Conventional Steam Coal,BIT,ST,4,2016,1,1955,Vigo,39.530000,-87.424700,MISO
+15470,"Duke Energy Indiana, LLC",1010,Wabash River,Electric Utility,IN,5,,125.0,95.0,95.0,Conventional Steam Coal,BIT,ST,4,2016,5,1956,Vigo,39.530000,-87.424700,MISO
+12341,MidAmerican Energy Co,1091,George Neal North,Electric Utility,IA,1,,147.0,134.3,134.3,Conventional Steam Coal,SUB,ST,4,2016,5,1964,Woodbury,42.299794,-96.361710,MISO
+12341,MidAmerican Energy Co,1091,George Neal North,Electric Utility,IA,2,,349.2,283.7,283.7,Conventional Steam Coal,SUB,ST,4,2016,5,1972,Woodbury,42.299794,-96.361710,MISO
+5580,"East Kentucky Power Coop, Inc",1385,Dale,Electric Utility,KY,3,,81.0,74.0,75.0,Conventional Steam Coal,BIT,ST,4,2016,10,1957,Clark,37.880600,-84.261900,PJM
+5580,"East Kentucky Power Coop, Inc",1385,Dale,Electric Utility,KY,4,,81.0,75.0,75.0,Conventional Steam Coal,BIT,ST,4,2016,8,1960,Clark,37.880600,-84.261900,PJM
+4254,Consumers Energy Co,1695,B C Cobb,Electric Utility,MI,4,,156.3,156.0,160.0,Conventional Steam Coal,SUB,ST,4,2016,9,1956,Muskegon,43.258768,-86.242270,MISO
+4254,Consumers Energy Co,1695,B C Cobb,Electric Utility,MI,5,,156.3,156.0,160.0,Conventional Steam Coal,SUB,ST,4,2016,3,1957,Muskegon,43.258768,-86.242270,MISO
+4254,Consumers Energy Co,1720,J C Weadock,Electric Utility,MI,7,,156.3,152.0,155.0,Conventional Steam Coal,SUB,ST,4,2016,5,1955,Bay,43.639927,-83.844710,MISO
+4254,Consumers Energy Co,1720,J C Weadock,Electric Utility,MI,8,,156.3,151.0,155.0,Conventional Steam Coal,SUB,ST,4,2016,1,1958,Bay,43.639927,-83.844710,MISO
+4254,Consumers Energy Co,1723,J R Whiting,Electric Utility,MI,1,,106.3,102.0,102.0,Conventional Steam Coal,SUB,ST,4,2016,7,1952,Monroe,41.792114,-83.449480,MISO
+4254,Consumers Energy Co,1723,J R Whiting,Electric Utility,MI,2,,106.3,95.0,100.0,Conventional Steam Coal,SUB,ST,4,2016,12,1952,Monroe,41.792114,-83.449480,MISO
+4254,Consumers Energy Co,1723,J R Whiting,Electric Utility,MI,3,,132.8,122.0,124.0,Conventional Steam Coal,SUB,ST,4,2016,11,1953,Monroe,41.792114,-83.449480,MISO
+5109,DTE Electric Company,1745,Trenton Channel,Electric Utility,MI,7,,120.0,110.0,110.0,Conventional Steam Coal,SUB,ST,4,2016,6,1949,Wayne,42.121700,-83.180800,MISO
+10000,Kansas City Power & Light Co,2080,Montrose,Electric Utility,MO,1,,188.0,170.0,170.0,Conventional Steam Coal,SUB,ST,4,2016,7,1958,Henry,38.311400,-93.934800,SWPP
+4045,City of Columbia - (MO),2123,Columbia (MO),Electric Utility,MO,5,,16.5,16.5,16.5,Conventional Steam Coal,BIT,ST,4,2016,1,1957,Boone,38.964646,-92.316770,MISO
+15474,Public Service Co of Oklahoma,2963,Northeastern,Electric Utility,OK,4,,473.0,460.0,460.0,Conventional Steam Coal,SUB,ST,4,2016,9,1980,Rogers,36.431700,-95.700800,SWPP
+17698,Southwestern Electric Power Co,6139,Welsh,Electric Utility,TX,2,,558.0,528.0,528.0,Conventional Steam Coal,SUB,ST,4,2016,4,1980,Titus,33.055220,-94.839990,SWPP
+20847,Wisconsin Electric Power Co,7549,Milwaukee County,Electric Utility,WI,1,,11.0,7.0,7.0,Conventional Steam Coal,SUB,ST,4,2016,3,1996,Milwaukee,43.046000,-88.028100,MISO
+7801,Gulf Power Co,643,Lansing Smith,Electric Utility,FL,1,,149.6,162.0,162.0,Conventional Steam Coal,BIT,ST,3,2016,6,1965,Bay,30.268600,-85.700300,SOCO
+7801,Gulf Power Co,643,Lansing Smith,Electric Utility,FL,2,,190.4,195.0,195.0,Conventional Steam Coal,BIT,ST,3,2016,6,1967,Bay,30.268600,-85.700300,SOCO
+13168,NRG Huntley Operations Inc,2549,C R Huntley Generating Station,IPP Non-CHP,NY,67,,200.0,190.0,190.0,Conventional Steam Coal,SUB,ST,3,2016,10,1957,Erie,42.970000,-78.930000,NYIS
+13168,NRG Huntley Operations Inc,2549,C R Huntley Generating Station,IPP Non-CHP,NY,S68,,200.0,190.0,190.0,Conventional Steam Coal,SUB,ST,3,2016,11,1958,Erie,42.970000,-78.930000,NYIS
+11142,City of Logansport - (IN),1032,Logansport,Electric Utility,IN,4,,18.0,16.5,16.5,Conventional Steam Coal,BIT,ST,1,2016,6,1958,Cass,40.758858,-86.360290,MISO
+11142,City of Logansport - (IN),1032,Logansport,Electric Utility,IN,5,,25.0,22.0,22.0,Conventional Steam Coal,BIT,ST,1,2016,6,1964,Cass,40.758858,-86.360290,MISO
+58246,Escanaba Operating Services LLC,1771,Escanaba,Electric Utility,MI,1,,11.5,13.0,13.0,Conventional Steam Coal,BIT,ST,1,2016,5,1958,Delta,45.771667,-87.063920,MISO
+58246,Escanaba Operating Services LLC,1771,Escanaba,Electric Utility,MI,2,,11.5,13.0,13.0,Conventional Steam Coal,BIT,ST,1,2016,5,1958,Delta,45.771667,-87.063920,MISO
+9231,City of Independence - (MO),2171,Missouri City,Electric Utility,MO,1,,23.0,19.0,19.0,Conventional Steam Coal,BIT,ST,1,2016,6,1954,Clay,39.231534,-94.307980,SWPP
+9231,City of Independence - (MO),2171,Missouri City,Electric Utility,MO,2,,23.0,19.0,19.0,Conventional Steam Coal,BIT,ST,1,2016,6,1954,Clay,39.231534,-94.307980,SWPP
+49756,Illinois Power Resources Generating LLC,856,E D Edwards,IPP Non-CHP,IL,1,,136.0,95.0,105.0,Conventional Steam Coal,SUB,ST,12,2015,5,1960,Peoria,40.595800,-89.663100,MISO
+14839,City of Peru - (IN),1037,Peru (IN),Electric Utility,IN,2,,22.0,20.0,20.0,Conventional Steam Coal,BIT,ST,12,2015,2,1959,Miami,40.755100,-86.057500,MISO
+14839,City of Peru - (IN),1037,Peru (IN),Electric Utility,IN,3,,12.5,12.0,12.0,Conventional Steam Coal,BIT,ST,12,2015,6,1949,Miami,40.755100,-86.057500,MISO
+56155,Lansing Board of Water and Light,1831,Eckert Station,Electric Utility,MI,3,,47.0,30.6,32.3,Conventional Steam Coal,SUB,ST,12,2015,6,1960,Ingham,42.718390,-84.558080,MISO
+16181,Rochester Public Utilities,2008,Silver Lake,Electric Utility,MN,1,,8.0,6.6,6.6,Conventional Steam Coal,BIT,ST,12,2015,8,1948,Olmsted,44.028180,-92.460380,MISO
+16181,Rochester Public Utilities,2008,Silver Lake,Electric Utility,MN,2,,12.0,7.0,7.0,Conventional Steam Coal,BIT,ST,12,2015,12,1953,Olmsted,44.028180,-92.460380,MISO
+16181,Rochester Public Utilities,2008,Silver Lake,Electric Utility,MN,3,,25.0,20.0,20.0,Conventional Steam Coal,BIT,ST,12,2015,11,1962,Olmsted,44.028180,-92.460380,MISO
+16181,Rochester Public Utilities,2008,Silver Lake,Electric Utility,MN,4,,54.0,46.4,46.4,Conventional Steam Coal,BIT,ST,12,2015,12,1969,Olmsted,44.028180,-92.460380,MISO
+3242,Central Electric Power Coop - (MO),2169,Chamois,Electric Utility,MO,1,,15.0,16.0,17.0,Conventional Steam Coal,BIT,ST,12,2015,12,1953,Osage,38.683900,-91.755800,AECI
+3242,Central Electric Power Coop - (MO),2169,Chamois,Electric Utility,MO,2,,44.0,47.0,50.0,Conventional Steam Coal,SUB,ST,12,2015,11,1960,Osage,38.683900,-91.755800,AECI
+18642,Tennessee Valley Authority,3406,Johnsonville,Electric Utility,TN,10,,172.8,141.0,144.0,Conventional Steam Coal,SUB,ST,12,2015,8,1959,Humphreys,36.027800,-87.986100,TVA
+18642,Tennessee Valley Authority,3406,Johnsonville,Electric Utility,TN,5,,147.0,107.0,113.0,Conventional Steam Coal,SUB,ST,12,2015,11,1952,Humphreys,36.027800,-87.986100,TVA
+18642,Tennessee Valley Authority,3406,Johnsonville,Electric Utility,TN,6,,147.0,107.0,113.0,Conventional Steam Coal,SUB,ST,12,2015,2,1953,Humphreys,36.027800,-87.986100,TVA
+18642,Tennessee Valley Authority,3406,Johnsonville,Electric Utility,TN,7,,172.8,141.0,144.0,Conventional Steam Coal,SUB,ST,12,2015,11,1958,Humphreys,36.027800,-87.986100,TVA
+18642,Tennessee Valley Authority,3406,Johnsonville,Electric Utility,TN,8,,172.8,141.0,144.0,Conventional Steam Coal,SUB,ST,12,2015,1,1959,Humphreys,36.027800,-87.986100,TVA
+18642,Tennessee Valley Authority,3406,Johnsonville,Electric Utility,TN,9,,172.8,141.0,144.0,Conventional Steam Coal,SUB,ST,12,2015,6,1959,Humphreys,36.027800,-87.986100,TVA
+733,Appalachian Power Co,3775,Clinch River,Electric Utility,VA,3,,237.5,230.0,235.0,Conventional Steam Coal,BIT,ST,12,2015,12,1961,Russell,36.933300,-82.199700,PJM
+20856,Wisconsin Power & Light Co,4050,Edgewater,Electric Utility,WI,3,,69.0,47.2,48.7,Conventional Steam Coal,SUB,ST,12,2015,7,1951,Sheboygan,43.715142,-87.705860,MISO
+20856,Wisconsin Power & Light Co,4054,Nelson Dewey Generating Station,Electric Utility,WI,1,,113.6,103.9,106.0,Conventional Steam Coal,SUB,ST,12,2015,12,1959,Grant,42.722500,-91.008500,MISO
+20856,Wisconsin Power & Light Co,4054,Nelson Dewey Generating Station,Electric Utility,WI,2,,113.6,105.2,107.4,Conventional Steam Coal,SUB,ST,12,2015,12,1962,Grant,42.722500,-91.008500,MISO
+803,Arizona Public Service Co,113,Cholla,Electric Utility,AZ,2,,288.9,260.0,260.0,Conventional Steam Coal,SUB,ST,11,2015,6,1978,Navajo,34.939400,-110.303300,AZPS
+22500,Westar Energy Inc,1250,Lawrence Energy Center,Electric Utility,KS,3,,49.0,48.0,48.0,Conventional Steam Coal,SUB,ST,11,2015,1,1955,Douglas,39.007200,-95.269170,SWPP
+22500,Westar Energy Inc,1252,Tecumseh Energy Center,Electric Utility,KS,8,,150.0,130.0,130.0,Conventional Steam Coal,SUB,ST,11,2015,4,1962,Shawnee,39.053900,-95.568890,SWPP
+733,Appalachian Power Co,3938,Philip Sporn,Electric Utility,WV,1,,152.5,145.0,150.0,Conventional Steam Coal,BIT,ST,11,2015,1,1950,Mason,38.966900,-81.923100,PJM
+733,Appalachian Power Co,3938,Philip Sporn,Electric Utility,WV,2,,152.5,145.0,150.0,Conventional Steam Coal,BIT,ST,11,2015,7,1950,Mason,38.966900,-81.923100,PJM
+733,Appalachian Power Co,3938,Philip Sporn,Electric Utility,WV,3,,152.5,145.0,150.0,Conventional Steam Coal,BIT,ST,11,2015,8,1951,Mason,38.966900,-81.923100,PJM
+733,Appalachian Power Co,3938,Philip Sporn,Electric Utility,WV,4,,152.5,145.0,150.0,Conventional Steam Coal,BIT,ST,11,2015,2,1952,Mason,38.966900,-81.923100,PJM
+7140,Georgia Power Co,733,Kraft,Electric Utility,GA,2,,54.4,52.0,52.0,Conventional Steam Coal,BIT,ST,10,2015,5,1961,Chatham,32.148600,-81.145800,SOCO
+7140,Georgia Power Co,733,Kraft,Electric Utility,GA,3,,103.5,101.0,101.0,Conventional Steam Coal,BIT,ST,10,2015,5,1965,Chatham,32.148600,-81.145800,SOCO
+7140,Georgia Power Co,733,Kraft,Electric Utility,GA,ST1,,50.0,48.0,48.0,Conventional Steam Coal,BIT,ST,10,2015,7,1958,Chatham,32.148600,-81.145800,SOCO
+10171,Kentucky Utilities Co,1357,Green River,Electric Utility,KY,3,,75.0,68.0,71.0,Conventional Steam Coal,BIT,ST,10,2015,4,1954,Muhlenberg,37.363600,-87.121400,LGEE
+10171,Kentucky Utilities Co,1357,Green River,Electric Utility,KY,4,,113.6,93.0,98.0,Conventional Steam Coal,BIT,ST,10,2015,7,1959,Muhlenberg,37.363600,-87.121400,LGEE
+9788,John Deere Harvester Works Co,10039,John Deere Harvester Works,Industrial CHP,IL,GEN6,,2.5,2.5,2.5,Conventional Steam Coal,BIT,ST,10,2015,11,1960,Rock Island,41.524315,-90.436590,MISO
+57300,Bayer CropScience,57917,Bayer CropScience Institute Plant,Industrial CHP,WV,2,,6.3,6.3,6.3,Conventional Steam Coal,BIT,ST,10,2015,4,1961,Kanawha,38.380833,-81.772500,PJM
+18642,Tennessee Valley Authority,50,Widows Creek,Electric Utility,AL,7,,575.0,473.0,476.0,Conventional Steam Coal,BIT,ST,9,2015,2,1961,Jackson,34.883022,-85.755250,TVA
+18642,Tennessee Valley Authority,50,Widows Creek,Electric Utility,AL,8,,550.0,465.0,469.0,Conventional Steam Coal,BIT,ST,9,2015,2,1965,Jackson,34.883022,-85.755250,TVA
+56155,Lansing Board of Water and Light,1831,Eckert Station,Electric Utility,MI,1,,44.0,32.9,35.8,Conventional Steam Coal,SUB,ST,9,2015,6,1954,Ingham,42.718390,-84.558080,MISO
+57300,Bayer CropScience,57917,Bayer CropScience Institute Plant,Industrial CHP,WV,1,,6.3,6.3,6.3,Conventional Steam Coal,BIT,ST,9,2015,5,1958,Kanawha,38.380833,-81.772500,PJM
+195,Alabama Power Co,3,Barry,Electric Utility,AL,3,,272.0,249.0,249.0,Conventional Steam Coal,BIT,ST,8,2015,7,1959,Mobile,31.006900,-88.010300,SOCO
+195,Alabama Power Co,8,Gorgas,Electric Utility,AL,6,,125.0,103.0,103.0,Conventional Steam Coal,BIT,ST,8,2015,4,1951,Walker,33.644344,-87.196490,SOCO
+195,Alabama Power Co,8,Gorgas,Electric Utility,AL,7,,125.0,104.0,104.0,Conventional Steam Coal,BIT,ST,8,2015,7,1952,Walker,33.644344,-87.196490,SOCO
+15466,Public Service Co of Colorado,469,Cherokee,Electric Utility,CO,3,,170.5,152.0,152.0,Conventional Steam Coal,BIT,ST,8,2015,6,1962,Adams,39.807275,-104.964500,PSCO
+9324,Indiana Michigan Power Co,988,Tanners Creek,Electric Utility,IN,1,,152.5,145.0,145.0,Conventional Steam Coal,BIT,ST,6,2015,3,1951,Dearborn,39.081400,-84.859400,PJM
+9324,Indiana Michigan Power Co,988,Tanners Creek,Electric Utility,IN,2,,152.5,145.0,145.0,Conventional Steam Coal,BIT,ST,6,2015,11,1952,Dearborn,39.081400,-84.859400,PJM
+9324,Indiana Michigan Power Co,988,Tanners Creek,Electric Utility,IN,3,,215.4,200.0,205.0,Conventional Steam Coal,BIT,ST,6,2015,12,1954,Dearborn,39.081400,-84.859400,PJM
+9324,Indiana Michigan Power Co,988,Tanners Creek,Electric Utility,IN,4,,579.7,500.0,500.0,Conventional Steam Coal,BIT,ST,6,2015,7,1964,Dearborn,39.081400,-84.859400,PJM
+11249,Louisville Gas & Electric Co,1363,Cane Run,Electric Utility,KY,4,,163.2,155.0,155.0,Conventional Steam Coal,BIT,ST,6,2015,5,1962,Jefferson,38.183100,-85.889200,LGEE
+11249,Louisville Gas & Electric Co,1363,Cane Run,Electric Utility,KY,5,,209.4,168.0,168.0,Conventional Steam Coal,BIT,ST,6,2015,5,1966,Jefferson,38.183100,-85.889200,LGEE
+59919,Dynegy Miami Fort,2832,Miami Fort,IPP Non-CHP,OH,6,,163.2,163.0,163.0,Conventional Steam Coal,BIT,ST,6,2015,11,1960,Hamilton,39.112800,-84.803600,PJM
+4922,Dayton Power & Light Co,2848,O H Hutchings,Electric Utility,OH,1,,69.0,58.0,59.0,Conventional Steam Coal,BIT,ST,6,2015,7,1948,Montgomery,39.608800,-84.292100,PJM
+4922,Dayton Power & Light Co,2848,O H Hutchings,Electric Utility,OH,2,,69.0,55.0,56.0,Conventional Steam Coal,BIT,ST,6,2015,3,1949,Montgomery,39.608800,-84.292100,PJM
+4922,Dayton Power & Light Co,2848,O H Hutchings,Electric Utility,OH,3,,69.0,63.0,64.0,Conventional Steam Coal,BIT,ST,6,2015,12,1950,Montgomery,39.608800,-84.292100,PJM
+4922,Dayton Power & Light Co,2848,O H Hutchings,Electric Utility,OH,5,,69.0,63.0,64.0,Conventional Steam Coal,BIT,ST,6,2015,11,1952,Montgomery,39.608800,-84.292100,PJM
+4922,Dayton Power & Light Co,2848,O H Hutchings,Electric Utility,OH,6,,69.0,63.0,64.0,Conventional Steam Coal,BIT,ST,6,2015,8,1953,Montgomery,39.608800,-84.292100,PJM
+733,Appalachian Power Co,3776,Glen Lyn,Electric Utility,VA,5,,100.0,90.0,95.0,Conventional Steam Coal,BIT,ST,6,2015,6,1944,Giles,37.370600,-80.863300,PJM
+733,Appalachian Power Co,3776,Glen Lyn,Electric Utility,VA,6,,237.5,235.0,240.0,Conventional Steam Coal,BIT,ST,6,2015,5,1957,Giles,37.370600,-80.863300,PJM
+20860,Wisconsin Public Service Corp,4072,Pulliam,Electric Utility,WI,5,,50.0,47.7,48.2,Conventional Steam Coal,SUB,ST,6,2015,9,1949,Brown,44.540000,-88.008600,MISO
+20860,Wisconsin Public Service Corp,4072,Pulliam,Electric Utility,WI,6,,69.0,69.8,71.0,Conventional Steam Coal,SUB,ST,6,2015,11,1951,Brown,44.540000,-88.008600,MISO
+20860,Wisconsin Public Service Corp,4078,Weston,Electric Utility,WI,1,,60.0,50.7,51.3,Conventional Steam Coal,SUB,ST,6,2015,12,1954,Marathon,44.860600,-89.655300,MISO
+22053,Kentucky Power Co,1353,Big Sandy,Electric Utility,KY,2,,816.3,800.0,800.0,Conventional Steam Coal,BIT,ST,5,2015,10,1969,Lawrence,38.170700,-82.617600,PJM
+58620,AEP Generation Resources Inc,2843,Picway,IPP Non-CHP,OH,5,,106.2,95.0,100.0,Conventional Steam Coal,BIT,ST,5,2015,11,1955,Pickaway,39.793300,-83.009700,PJM
+58620,AEP Generation Resources Inc,2872,Muskingum River,IPP Non-CHP,OH,1,,219.6,190.0,205.0,Conventional Steam Coal,BIT,ST,5,2015,12,1953,Washington,39.590800,-81.679700,PJM
+58620,AEP Generation Resources Inc,2872,Muskingum River,IPP Non-CHP,OH,2,,219.6,190.0,205.0,Conventional Steam Coal,BIT,ST,5,2015,6,1954,Washington,39.590800,-81.679700,PJM
+58620,AEP Generation Resources Inc,2872,Muskingum River,IPP Non-CHP,OH,3,,237.5,205.0,215.0,Conventional Steam Coal,BIT,ST,5,2015,12,1957,Washington,39.590800,-81.679700,PJM
+58620,AEP Generation Resources Inc,2872,Muskingum River,IPP Non-CHP,OH,4,,237.5,205.0,215.0,Conventional Steam Coal,BIT,ST,5,2015,5,1958,Washington,39.590800,-81.679700,PJM
+58620,AEP Generation Resources Inc,2872,Muskingum River,IPP Non-CHP,OH,5,,615.2,585.0,585.0,Conventional Steam Coal,BIT,ST,5,2015,10,1968,Washington,39.590800,-81.679700,PJM
+58620,AEP Generation Resources Inc,3947,Kammer,IPP Non-CHP,WV,1,,237.5,200.0,210.0,Conventional Steam Coal,BIT,ST,5,2015,7,1958,Marshall,39.846100,-80.818600,PJM
+58620,AEP Generation Resources Inc,3947,Kammer,IPP Non-CHP,WV,2,,237.5,200.0,210.0,Conventional Steam Coal,BIT,ST,5,2015,11,1958,Marshall,39.846100,-80.818600,PJM
+58620,AEP Generation Resources Inc,3947,Kammer,IPP Non-CHP,WV,3,,237.5,200.0,210.0,Conventional Steam Coal,BIT,ST,5,2015,3,1959,Marshall,39.846100,-80.818600,PJM
+9788,John Deere Harvester Works Co,10039,John Deere Harvester Works,Industrial CHP,IL,GEN7,,0.9,0.8,0.8,Conventional Steam Coal,BIT,ST,5,2015,12,2003,Rock Island,41.524315,-90.436590,MISO
+12647,"ALLETE, Inc.",10075,Taconite Harbor Energy Center,Electric Utility,MN,GEN3,,84.0,83.6,83.6,Conventional Steam Coal,SUB,ST,5,2015,1,1967,Cook,47.531400,-90.911400,MISO
+142,AES Beaver Valley,10676,AES Beaver Valley Partners Beaver Valley,IPP CHP,PA,GEN2,,35.0,32.0,31.5,Conventional Steam Coal,BIT,ST,5,2015,7,1987,Beaver,40.657218,-80.353930,PJM
+142,AES Beaver Valley,10676,AES Beaver Valley Partners Beaver Valley,IPP CHP,PA,GEN3,,114.0,114.0,120.0,Conventional Steam Coal,BIT,ST,5,2015,7,1987,Beaver,40.657218,-80.353930,PJM
+7801,Gulf Power Co,642,Scholz,Electric Utility,FL,1,,49.0,46.0,46.0,Conventional Steam Coal,BIT,ST,4,2015,3,1953,Jackson,30.669200,-84.886900,SOCO
+7801,Gulf Power Co,642,Scholz,Electric Utility,FL,2,,49.0,46.0,46.0,Conventional Steam Coal,BIT,ST,4,2015,10,1953,Jackson,30.669200,-84.886900,SOCO
+7140,Georgia Power Co,709,Harllee Branch,Electric Utility,GA,1,,299.2,266.0,266.0,Conventional Steam Coal,BIT,ST,4,2015,6,1965,Putnam,33.195000,-83.298300,SOCO
+7140,Georgia Power Co,709,Harllee Branch,Electric Utility,GA,3,,544.0,488.0,488.0,Conventional Steam Coal,BIT,ST,4,2015,7,1968,Putnam,33.195000,-83.298300,SOCO
+7140,Georgia Power Co,709,Harllee Branch,Electric Utility,GA,4,,544.0,507.0,507.0,Conventional Steam Coal,BIT,ST,4,2015,6,1969,Putnam,33.195000,-83.298300,SOCO
+7140,Georgia Power Co,728,Yates,Electric Utility,GA,1,,122.5,97.0,97.0,Conventional Steam Coal,BIT,ST,4,2015,9,1950,Coweta,33.462200,-84.898600,SOCO
+7140,Georgia Power Co,728,Yates,Electric Utility,GA,2,,122.5,103.0,103.0,Conventional Steam Coal,BIT,ST,4,2015,11,1950,Coweta,33.462200,-84.898600,SOCO
+7140,Georgia Power Co,728,Yates,Electric Utility,GA,3,,122.5,111.0,111.0,Conventional Steam Coal,BIT,ST,4,2015,8,1952,Coweta,33.462200,-84.898600,SOCO
+7140,Georgia Power Co,728,Yates,Electric Utility,GA,4,,156.2,133.0,133.0,Conventional Steam Coal,BIT,ST,4,2015,6,1957,Coweta,33.462200,-84.898600,SOCO
+7140,Georgia Power Co,728,Yates,Electric Utility,GA,5,,156.2,135.0,135.0,Conventional Steam Coal,BIT,ST,4,2015,5,1958,Coweta,33.462200,-84.898600,SOCO
+12384,Midwest Generations EME LLC,884,Will County,IPP Non-CHP,IL,3,,299.2,251.0,262.0,Conventional Steam Coal,SUB,ST,4,2015,6,1957,Will,41.633400,-88.062900,PJM
+11249,Louisville Gas & Electric Co,1363,Cane Run,Electric Utility,KY,6,,272.0,240.0,240.0,Conventional Steam Coal,BIT,ST,4,2015,5,1969,Jefferson,38.183100,-85.889200,LGEE
+5580,"East Kentucky Power Coop, Inc",1385,Dale,Electric Utility,KY,1,,27.0,23.0,23.0,Conventional Steam Coal,BIT,ST,4,2015,12,1954,Clark,37.880600,-84.261900,PJM
+5580,"East Kentucky Power Coop, Inc",1385,Dale,Electric Utility,KY,2,,27.0,23.0,23.0,Conventional Steam Coal,BIT,ST,4,2015,12,1954,Clark,37.880600,-84.261900,PJM
+5109,DTE Electric Company,1745,Trenton Channel,Electric Utility,MI,8,,120.0,100.0,100.0,Conventional Steam Coal,SUB,ST,4,2015,2,1950,Wayne,42.121700,-83.180800,MISO
+13781,Northern States Power Co - Minnesota,1904,Black Dog,Electric Utility,MN,3,,113.6,79.0,79.0,Conventional Steam Coal,SUB,ST,4,2015,7,1955,Dakota,44.810800,-93.250100,MISO
+13781,Northern States Power Co - Minnesota,1904,Black Dog,Electric Utility,MN,4,,163.2,153.0,153.0,Conventional Steam Coal,SUB,ST,4,2015,9,1960,Dakota,44.810800,-93.250100,MISO
+6526,FirstEnergy Generation Corp,2835,FirstEnergy Ashtabula,IPP Non-CHP,OH,5,,256.0,244.0,244.0,Conventional Steam Coal,SUB,ST,4,2015,12,1958,Ashtabula,41.908600,-80.769700,PJM
+6526,FirstEnergy Generation Corp,2837,FirstEnergy Eastlake,IPP Non-CHP,OH,1,,123.0,132.0,132.0,Conventional Steam Coal,SUB,ST,4,2015,9,1953,Lake,41.671100,-81.442500,PJM
+6526,FirstEnergy Generation Corp,2837,FirstEnergy Eastlake,IPP Non-CHP,OH,2,,123.0,132.0,132.0,Conventional Steam Coal,SUB,ST,4,2015,12,1953,Lake,41.671100,-81.442500,PJM
+6526,FirstEnergy Generation Corp,2837,FirstEnergy Eastlake,IPP Non-CHP,OH,3,,123.0,132.0,132.0,Conventional Steam Coal,SUB,ST,4,2015,8,1954,Lake,41.671100,-81.442500,PJM
+6526,FirstEnergy Generation Corp,2838,FirstEnergy Lake Shore,IPP Non-CHP,OH,18,,256.0,245.0,245.0,Conventional Steam Coal,SUB,ST,4,2015,6,1962,Cuyahoga,41.535600,-81.641900,PJM
+14354,PacifiCorp,3644,Carbon,Electric Utility,UT,1,,75.0,67.0,67.0,Conventional Steam Coal,BIT,ST,4,2015,11,1954,Carbon,39.727200,-110.864400,PACE
+14354,PacifiCorp,3644,Carbon,Electric Utility,UT,2,,113.6,105.0,105.0,Conventional Steam Coal,BIT,ST,4,2015,9,1957,Carbon,39.727200,-110.864400,PACE
+13657,Norfork Southern Corp,10302,Juniata Locomotive Shop,Commercial Non-CHP,PA,GEN1,,2.0,0.4,0.5,Conventional Steam Coal,BIT,ST,4,2015,8,1955,Blair,40.533299,-78.384130,PJM
+13657,Norfork Southern Corp,10302,Juniata Locomotive Shop,Commercial Non-CHP,PA,GEN2,,2.0,0.3,0.7,Conventional Steam Coal,BIT,ST,4,2015,8,1955,Blair,40.533299,-78.384130,PJM
+57279,California Portland Cement Co,57907,Colton Plant,Industrial CHP,CA,1,,15.0,14.3,14.3,Conventional Steam Coal,BIT,ST,4,2015,4,1985,San Bernardino,34.059722,-117.345300,CISO
+57279,California Portland Cement Co,57907,Colton Plant,Industrial CHP,CA,2,,15.0,14.3,14.3,Conventional Steam Coal,BIT,ST,4,2015,4,1985,San Bernardino,34.059722,-117.345300,CISO
+9267,"Hoosier Energy R E C, Inc",1043,Frank E Ratts,Electric Utility,IN,1,,116.6,110.0,115.0,Conventional Steam Coal,BIT,ST,3,2015,4,1970,Pike,38.520100,-87.266200,MISO
+9267,"Hoosier Energy R E C, Inc",1043,Frank E Ratts,Electric Utility,IN,2,,116.6,100.0,105.0,Conventional Steam Coal,BIT,ST,3,2015,4,1970,Pike,38.520100,-87.266200,MISO
+12341,MidAmerican Energy Co,1082,Walter Scott Jr Energy Center,Electric Utility,IA,1,,49.0,37.4,37.4,Conventional Steam Coal,SUB,ST,3,2015,3,1954,Pottawattamie,41.180000,-95.840800,MISO
+12341,MidAmerican Energy Co,1082,Walter Scott Jr Energy Center,Electric Utility,IA,2,,81.6,80.8,80.8,Conventional Steam Coal,SUB,ST,3,2015,10,1958,Pottawattamie,41.180000,-95.840800,MISO
+15298,Talen Montana LLC,2187,J E Corette Plant,IPP Non-CHP,MT,1,,172.8,130.0,130.0,Conventional Steam Coal,SUB,ST,3,2015,6,1968,Yellowstone,45.775620,-108.481000,NWMT
+58159,Penn State University,58194,West Campus Steam Plant,Commercial CHP,PA,WC 2,,2.5,0.5,1.0,Conventional Steam Coal,BIT,ST,3,2015,1,1938,Centre,40.792778,-77.864720,PJM
+58159,Penn State University,58194,West Campus Steam Plant,Commercial CHP,PA,WC 3,,3.5,0.6,2.8,Conventional Steam Coal,BIT,ST,3,2015,1,1949,Centre,40.792778,-77.864720,PJM
+3103,Cargill Inc,10729,Cargill Corn Wet Milling Plant,Industrial CHP,TN,GEN1,,25.0,10.3,10.3,Conventional Steam Coal,BIT,ST,2,2015,5,1985,Shelby,35.082107,-90.134780,TVA
+19876,Virginia Electric & Power Co,3803,Chesapeake,Electric Utility,VA,3,,185.2,156.0,162.0,Conventional Steam Coal,BIT,ST,1,2015,6,1959,Chesapeake City,36.771100,-76.301900,PJM
+19876,Virginia Electric & Power Co,3803,Chesapeake,Electric Utility,VA,ST1,,112.5,111.0,111.0,Conventional Steam Coal,BIT,ST,1,2015,6,1953,Chesapeake City,36.771100,-76.301900,PJM
+19876,Virginia Electric & Power Co,3803,Chesapeake,Electric Utility,VA,ST2,,112.5,111.0,111.0,Conventional Steam Coal,BIT,ST,1,2015,12,1954,Chesapeake City,36.771100,-76.301900,PJM
+19876,Virginia Electric & Power Co,3803,Chesapeake,Electric Utility,VA,ST4,,239.3,217.0,221.0,Conventional Steam Coal,BIT,ST,1,2015,5,1962,Chesapeake City,36.771100,-76.301900,PJM
+12986,Morton Salt Inc,54335,Morton Salt Rittman,Industrial CHP,OH,GEN1,,1.5,1.5,1.5,Conventional Steam Coal,BIT,ST,1,2015,10,1978,Wayne,40.969200,-81.775600,PJM
+57316,Miller Coors LLC,57936,Albany Brewery,Industrial CHP,GA,GEN1,,6.0,2.5,2.5,Conventional Steam Coal,SUB,ST,1,2015,11,1979,Dougherty,31.592827,-84.089530,SOCO
+13407,Nevada Power Co,2324,Reid Gardner,Electric Utility,NV,1,,114.0,100.0,100.0,Conventional Steam Coal,BIT,ST,12,2014,6,1965,Clark,36.657347,-114.633300,NEVP
+13407,Nevada Power Co,2324,Reid Gardner,Electric Utility,NV,2,,114.0,100.0,100.0,Conventional Steam Coal,BIT,ST,12,2014,6,1968,Clark,36.657347,-114.633300,NEVP
+13407,Nevada Power Co,2324,Reid Gardner,Electric Utility,NV,3,,114.0,98.0,98.0,Conventional Steam Coal,BIT,ST,12,2014,5,1976,Clark,36.657347,-114.633300,NEVP
+14795,Perdue Agribusiness,10515,Oilseed Plant,Industrial CHP,VA,GEN1,,1.7,1.6,1.6,Conventional Steam Coal,BIT,ST,12,2014,5,1985,Chesapeake City,36.805300,-76.283300,PJM
+2138,Brainerd Public Utilities,50636,Brainerd Public Utilities,Electric Utility,MN,VPLS,,0.6,0.6,0.6,Conventional Steam Coal,BIT,ST,12,2014,1,1959,Crow Wing,46.375800,-94.181700,MISO
+5416,"Duke Energy Carolinas, LLC",3264,W S Lee,Electric Utility,SC,1,,90.0,100.0,100.0,Conventional Steam Coal,BIT,ST,11,2014,3,1951,Anderson,34.602200,-82.435000,DUK
+5416,"Duke Energy Carolinas, LLC",3264,W S Lee,Electric Utility,SC,2,,90.0,100.0,102.0,Conventional Steam Coal,BIT,ST,11,2014,7,1951,Anderson,34.602200,-82.435000,DUK
+16002,Rio Bravo Poso,10769,Rio Bravo Poso,IPP CHP,CA,UP8,,38.2,33.0,33.0,Conventional Steam Coal,BIT,ST,11,2014,9,1989,Kern,35.547452,-119.075400,CISO
+19724,Vanderbilt University,52048,Vanderbilt University Power Plant,Commercial CHP,TN,GEN1,,6.5,6.5,6.5,Conventional Steam Coal,BIT,ST,11,2014,11,1988,Davidson,36.145896,-86.803830,TVA
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,Electric Utility,OH,5,,244.8,238.0,238.0,Conventional Steam Coal,BIT,ST,10,2014,12,1962,Clermont,38.991700,-84.298100,PJM
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,Electric Utility,OH,6,,460.8,414.0,420.0,Conventional Steam Coal,BIT,ST,10,2014,7,1969,Clermont,38.991700,-84.298100,PJM
+4716,Dairyland Power Coop,4140,Alma,Electric Utility,WI,5,,81.6,62.1,69.0,Conventional Steam Coal,BIT,ST,10,2014,1,1960,Buffalo,44.308333,-91.911110,MISO
+52,ACE Cogeneration Co,10002,ACE Cogeneration Facility,IPP CHP,CA,GEN1,,108.0,101.2,101.5,Conventional Steam Coal,BIT,ST,10,2014,9,1990,San Bernardino,35.765767,-117.383600,CISO
+109,Ag Processing Inc,10223,AG Processing Inc,Industrial CHP,IA,E.C.,,8.5,8.5,8.5,Conventional Steam Coal,SUB,ST,10,2014,1,1982,Wright,42.665941,-93.902610,MISO
+55919,Georgia-Pacific Consumer Oper. Green Bay LLC,10360,Consumer Operations LLC,Industrial CHP,WI,GEN10,,28.2,26.4,26.5,Conventional Steam Coal,BIT,ST,10,2014,7,2005,Brown,44.493600,-88.030300,MISO
+55919,Georgia-Pacific Consumer Oper. Green Bay LLC,10360,Consumer Operations LLC,Industrial CHP,WI,GEN5,,10.0,7.5,7.5,Conventional Steam Coal,BIT,ST,10,2014,1,1954,Brown,44.493600,-88.030300,MISO
+55965,Verso Corporation,10476,Whiting Mill,Industrial CHP,WI,GEN4,,4.1,4.1,4.1,Conventional Steam Coal,SUB,ST,10,2014,7,1951,Portage,44.488730,-89.572820,MISO
+16061,Rio Bravo Jasmin,10768,Rio Bravo Jasmin,IPP CHP,CA,UP9,,38.2,33.0,33.0,Conventional Steam Coal,BIT,ST,10,2014,9,1989,Kern,35.741500,-119.051200,CISO
+4716,Dairyland Power Coop,4140,Alma,Electric Utility,WI,4,,54.4,40.4,44.6,Conventional Steam Coal,BIT,ST,9,2014,4,1957,Buffalo,44.308333,-91.911110,MISO
+9788,John Deere Harvester Works Co,10039,John Deere Harvester Works,Industrial CHP,IL,GEN2,,2.0,2.0,2.0,Conventional Steam Coal,BIT,ST,9,2014,10,1940,Rock Island,41.524315,-90.436590,MISO
+18642,Tennessee Valley Authority,50,Widows Creek,Electric Utility,AL,1,,140.6,111.0,113.0,Conventional Steam Coal,BIT,ST,7,2014,7,1952,Jackson,34.883022,-85.755250,TVA
+18642,Tennessee Valley Authority,50,Widows Creek,Electric Utility,AL,2,,140.6,111.0,113.0,Conventional Steam Coal,BIT,ST,7,2014,10,1952,Jackson,34.883022,-85.755250,TVA
+18642,Tennessee Valley Authority,50,Widows Creek,Electric Utility,AL,4,,140.6,111.0,113.0,Conventional Steam Coal,BIT,ST,7,2014,1,1953,Jackson,34.883022,-85.755250,TVA
+18642,Tennessee Valley Authority,50,Widows Creek,Electric Utility,AL,6,,140.6,111.0,113.0,Conventional Steam Coal,BIT,ST,7,2014,7,1954,Jackson,34.883022,-85.755250,TVA
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,IPP Non-CHP,PA,1,,89.1,80.0,80.0,Conventional Steam Coal,BIT,ST,7,2014,11,1949,Snyder,40.836100,-76.825000,PJM
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,IPP Non-CHP,PA,2,,89.1,80.0,80.0,Conventional Steam Coal,BIT,ST,7,2014,9,1949,Snyder,40.836100,-76.825000,PJM
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,IPP Non-CHP,PA,3,,103.5,94.0,94.0,Conventional Steam Coal,BIT,ST,7,2014,4,1951,Snyder,40.836100,-76.825000,PJM
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,IPP Non-CHP,PA,4,,156.2,128.0,134.0,Conventional Steam Coal,BIT,ST,7,2014,8,1953,Snyder,40.836100,-76.825000,PJM
+18642,Tennessee Valley Authority,1379,Shawnee,Electric Utility,KY,10,,175.0,124.0,127.0,Conventional Steam Coal,BIT,ST,6,2014,10,1956,McCracken,37.151700,-88.775000,TVA
+58185,"FirstLight Power Resources, Inc. - MA",1606,Mount Tom,IPP Non-CHP,MA,1,,136.0,143.6,145.7,Conventional Steam Coal,BIT,ST,6,2014,11,1960,Hampden,42.280600,-72.605500,ISNE
+59928,Footprint Salem Harbor Development LP,1626,Salem Harbor,IPP Non-CHP,MA,1,,81.9,79.7,81.4,Conventional Steam Coal,BIT,ST,6,2014,1,1952,Essex,42.525600,-70.877200,ISNE
+59928,Footprint Salem Harbor Development LP,1626,Salem Harbor,IPP Non-CHP,MA,2,,82.0,78.0,78.8,Conventional Steam Coal,BIT,ST,6,2014,9,1952,Essex,42.525600,-70.877200,ISNE
+59928,Footprint Salem Harbor Development LP,1626,Salem Harbor,IPP Non-CHP,MA,3,,165.7,149.8,149.9,Conventional Steam Coal,BIT,ST,6,2014,8,1958,Essex,42.525600,-70.877200,ISNE
+18642,Tennessee Valley Authority,3405,John Sevier,Electric Utility,TN,3,,200.0,176.0,178.0,Conventional Steam Coal,BIT,ST,6,2014,2,1956,Hawkins,36.376700,-82.963900,TVA
+18642,Tennessee Valley Authority,3405,John Sevier,Electric Utility,TN,4,,200.0,176.0,178.0,Conventional Steam Coal,BIT,ST,6,2014,10,1957,Hawkins,36.376700,-82.963900,TVA
+12298,City of Menasha - (WI),4127,Menasha,IPP CHP,WI,3,,7.5,7.5,7.5,Conventional Steam Coal,SUB,ST,6,2014,12,1954,WINNEBAGO,44.200020,-88.458170,MISO
+12298,City of Menasha - (WI),4127,Menasha,IPP CHP,WI,4,,13.6,12.5,12.5,Conventional Steam Coal,SUB,ST,6,2014,12,1964,WINNEBAGO,44.200020,-88.458170,MISO
+12298,City of Menasha - (WI),4127,Menasha,IPP CHP,WI,5,,6.9,6.9,6.9,Conventional Steam Coal,SUB,ST,6,2014,10,2006,WINNEBAGO,44.200020,-88.458170,MISO
+55768,RC Cape May Holdings LLC,2378,B L England,IPP Non-CHP,NJ,1,,136.0,113.0,113.0,Conventional Steam Coal,BIT,ST,5,2014,10,1962,Cape May,39.290800,-74.636400,PJM
+58793,Missouri University of Science and Technology,58923,Missouri S&T - Power Plant,IPP Non-CHP,MO,500K,,0.5,0.2,0.5,Conventional Steam Coal,BIT,ST,5,2014,1,1951,Phelps,37.953889,-91.774440,MISO
+56155,Lansing Board of Water and Light,1831,Eckert Station,Electric Utility,MI,2,,44.0,31.6,33.7,Conventional Steam Coal,SUB,ST,3,2014,6,1958,Ingham,42.718390,-84.558080,MISO
+14165,NRG Power Midwest LP,3098,Elrama Power Plant,IPP Non-CHP,PA,1,,100.0,93.0,93.0,Conventional Steam Coal,BIT,ST,3,2014,4,1952,Washington,40.251829,-79.918020,PJM
+14165,NRG Power Midwest LP,3098,Elrama Power Plant,IPP Non-CHP,PA,2,,100.0,93.0,93.0,Conventional Steam Coal,BIT,ST,3,2014,1,1953,Washington,40.251829,-79.918020,PJM
+14165,NRG Power Midwest LP,3098,Elrama Power Plant,IPP Non-CHP,PA,3,,125.0,103.0,103.0,Conventional Steam Coal,BIT,ST,3,2014,9,1954,Washington,40.251829,-79.918020,PJM
+14165,NRG Power Midwest LP,3098,Elrama Power Plant,IPP Non-CHP,PA,4,,185.0,171.0,171.0,Conventional Steam Coal,BIT,ST,3,2014,10,1960,Washington,40.251829,-79.918020,PJM
+19545,"Black Hills Power, Inc. d/b/a",3325,Ben French,Electric Utility,SD,ST1,,25.0,21.6,21.6,Conventional Steam Coal,SUB,ST,3,2014,4,1960,Pennington,44.087235,-103.261000,WACM
+19545,"Black Hills Power, Inc. d/b/a",4150,Neil Simpson,Electric Utility,WY,5,,21.7,14.6,18.6,Conventional Steam Coal,SUB,ST,3,2014,5,1959,Campbell,44.287200,-105.387800,WACM
+19545,"Black Hills Power, Inc. d/b/a",4151,Osage (WY),Electric Utility,WY,1,,11.5,10.1,10.1,Conventional Steam Coal,SUB,ST,3,2014,1,1948,Weston,43.970300,-104.410600,WACM
+19545,"Black Hills Power, Inc. d/b/a",4151,Osage (WY),Electric Utility,WY,2,,11.5,10.1,10.1,Conventional Steam Coal,SUB,ST,3,2014,1,1950,Weston,43.970300,-104.410600,WACM
+19545,"Black Hills Power, Inc. d/b/a",4151,Osage (WY),Electric Utility,WY,3,,11.5,10.1,10.1,Conventional Steam Coal,SUB,ST,3,2014,1,1952,Weston,43.970300,-104.410600,WACM
+19724,Vanderbilt University,52048,Vanderbilt University Power Plant,Commercial CHP,TN,GEN2,,4.5,4.5,4.5,Conventional Steam Coal,BIT,ST,3,2014,6,1989,Davidson,36.145896,-86.803830,TVA
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,Electric Utility,OH,4,,163.2,150.0,150.0,Conventional Steam Coal,BIT,ST,2,2014,7,1958,Clermont,38.991700,-84.298100,PJM
+9332,Indian River Operations Inc,594,Indian River Generating Station,IPP Non-CHP,DE,3,,176.8,165.0,165.0,Conventional Steam Coal,BIT,ST,1,2014,3,1970,Sussex,38.585700,-75.234100,PJM
+4129,Colmac Clarion Inc,54144,Piney Creek Project,IPP Non-CHP,PA,GEN1,,36.2,32.5,32.5,Conventional Steam Coal,WC,ST,1,2014,11,1992,CLARION,41.176400,-79.441400,PJM
+56146,Black Hills/Colorado Elec.Util,462,W N Clark,Electric Utility,CO,1,,18.7,16.0,16.0,Conventional Steam Coal,BIT,ST,12,2013,9,1955,Fremont,38.434400,-105.250000,PSCO
+56146,Black Hills/Colorado Elec.Util,462,W N Clark,Electric Utility,CO,2,,25.0,24.9,24.9,Conventional Steam Coal,BIT,ST,12,2013,1,1959,Fremont,38.434400,-105.250000,PSCO
+15466,Public Service Co of Colorado,465,Arapahoe,Electric Utility,CO,3,,40.0,35.0,40.0,Conventional Steam Coal,SUB,ST,12,2013,6,1951,Denver,39.670000,-105.002800,PSCO
+15466,Public Service Co of Colorado,465,Arapahoe,Electric Utility,CO,4,,112.5,109.0,109.0,Conventional Steam Coal,SUB,ST,12,2013,6,1955,Denver,39.670000,-105.002800,PSCO
+5860,Empire District Electric Co,2076,Asbury,Electric Utility,MO,2,,18.7,14.5,14.5,Conventional Steam Coal,SUB,ST,12,2013,4,1986,Jasper,37.361315,-94.589260,SWPP
+803,Arizona Public Service Co,2442,Four Corners,Electric Utility,NM,1,,190.0,170.0,170.0,Conventional Steam Coal,BIT,ST,12,2013,5,1963,San Juan,36.690000,-108.481400,AZPS
+803,Arizona Public Service Co,2442,Four Corners,Electric Utility,NM,2,,190.0,170.0,170.0,Conventional Steam Coal,BIT,ST,12,2013,6,1963,San Juan,36.690000,-108.481400,AZPS
+803,Arizona Public Service Co,2442,Four Corners,Electric Utility,NM,3,,253.4,220.0,220.0,Conventional Steam Coal,BIT,ST,12,2013,8,1964,San Juan,36.690000,-108.481400,AZPS
+20508,WestRock Corp,50900,Covington Facility,Industrial CHP,VA,GEN2,,10.5,10.5,10.5,Conventional Steam Coal,BIT,ST,12,2013,1,1946,Covington City,37.799722,-79.994700,PJM
+3258,Central Iowa Power Cooperative,1218,Fair Station,Electric Utility,IA,1,,25.0,23.0,24.0,Conventional Steam Coal,BIT,ST,11,2013,1,1960,Muscatine,41.456900,-90.823300,MISO
+3258,Central Iowa Power Cooperative,1218,Fair Station,Electric Utility,IA,2,,37.5,41.0,42.0,Conventional Steam Coal,BIT,ST,11,2013,4,1967,Muscatine,41.456900,-90.823300,MISO
+5109,DTE Electric Company,1731,Harbor Beach,Electric Utility,MI,1,,121.0,95.0,103.0,Conventional Steam Coal,BIT,ST,11,2013,4,1968,Huron,43.851900,-82.643600,MISO
+3046,Duke Energy Progress - (NC),2713,L V Sutton Steam,Electric Utility,NC,1,,112.5,97.0,98.0,Conventional Steam Coal,BIT,ST,11,2013,8,1954,New Hanover,34.283056,-77.985280,CPLE
+3046,Duke Energy Progress - (NC),2713,L V Sutton Steam,Electric Utility,NC,2,,112.5,90.0,95.0,Conventional Steam Coal,BIT,ST,11,2013,5,1955,New Hanover,34.283056,-77.985280,CPLE
+3046,Duke Energy Progress - (NC),2713,L V Sutton Steam,Electric Utility,NC,3,,446.6,366.0,389.0,Conventional Steam Coal,BIT,ST,11,2013,6,1972,New Hanover,34.283056,-77.985280,CPLE
+17043,City of Shelby - (OH),2943,Shelby Municipal Light Plant,Electric Utility,OH,1,,12.5,12.0,12.0,Conventional Steam Coal,BIT,ST,11,2013,6,1968,Richland,40.880000,-82.656700,PJM
+17043,City of Shelby - (OH),2943,Shelby Municipal Light Plant,Electric Utility,OH,2,,12.5,12.0,12.0,Conventional Steam Coal,BIT,ST,11,2013,5,1973,Richland,40.880000,-82.656700,PJM
+17043,City of Shelby - (OH),2943,Shelby Municipal Light Plant,Electric Utility,OH,4,,7.0,7.0,7.0,Conventional Steam Coal,BIT,ST,11,2013,6,1954,Richland,40.880000,-82.656700,PJM
+17539,South Carolina Electric&Gas Company,3280,Canadys Steam,Electric Utility,SC,2,,136.0,115.0,115.0,Conventional Steam Coal,BIT,ST,11,2013,5,1964,Colleton,33.064700,-80.622800,SCEG
+17539,South Carolina Electric&Gas Company,3280,Canadys Steam,Electric Utility,SC,3,,217.6,180.0,180.0,Conventional Steam Coal,BIT,ST,11,2013,6,1967,Colleton,33.064700,-80.622800,SCEG
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,Electric Utility,OH,2,,112.5,94.0,94.0,Conventional Steam Coal,BIT,ST,10,2013,10,1953,Clermont,38.991700,-84.298100,PJM
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,Electric Utility,OH,3,,125.0,128.0,128.0,Conventional Steam Coal,BIT,ST,10,2013,11,1954,Clermont,38.991700,-84.298100,PJM
+23279,Allegheny Energy Supply Co LLC,3179,Hatfields Ferry Power Station,IPP Non-CHP,PA,1,,576.0,530.0,570.0,Conventional Steam Coal,BIT,ST,10,2013,11,1969,Greene,39.855556,-79.927500,PJM
+23279,Allegheny Energy Supply Co LLC,3179,Hatfields Ferry Power Station,IPP Non-CHP,PA,2,,576.0,530.0,570.0,Conventional Steam Coal,BIT,ST,10,2013,10,1970,Greene,39.855556,-79.927500,PJM
+23279,Allegheny Energy Supply Co LLC,3179,Hatfields Ferry Power Station,IPP Non-CHP,PA,3,,576.0,530.0,570.0,Conventional Steam Coal,BIT,ST,10,2013,12,1971,Greene,39.855556,-79.927500,PJM
+23279,Allegheny Energy Supply Co LLC,3181,FirstEnergy Mitchell Power Station,IPP Non-CHP,PA,3,,299.2,278.0,288.0,Conventional Steam Coal,BIT,ST,10,2013,8,1963,Washington,40.221111,-79.968330,PJM
+20508,WestRock Corp,50900,Covington Facility,Industrial CHP,VA,GEN1,,10.5,10.5,10.5,Conventional Steam Coal,BIT,ST,10,2013,1,1939,Covington City,37.799722,-79.994700,PJM
+57437,MillerCoors LLC Trenton Brewery,58059,MillerCoors Trenton Brewery,Industrial CHP,OH,GE,,13.8,8.0,10.0,Conventional Steam Coal,BIT,ST,10,2013,1,1992,Butler,39.454722,-84.476670,PJM
+57437,MillerCoors LLC Trenton Brewery,58059,MillerCoors Trenton Brewery,Industrial CHP,OH,MURR,,8.0,3.0,6.0,Conventional Steam Coal,BIT,ST,10,2013,1,1992,Butler,39.454722,-84.476670,PJM
+7140,Georgia Power Co,709,Harllee Branch,Electric Utility,GA,2,,359.0,325.0,325.0,Conventional Steam Coal,BIT,ST,9,2013,6,1967,Putnam,33.195000,-83.298300,SOCO
+17235,NRG REMA LLC,3115,Titus,IPP Non-CHP,PA,1,,75.0,72.0,72.0,Conventional Steam Coal,BIT,ST,9,2013,3,1951,Berks,40.305600,-75.908100,PJM
+17235,NRG REMA LLC,3115,Titus,IPP Non-CHP,PA,2,,75.0,72.0,72.0,Conventional Steam Coal,BIT,ST,9,2013,6,1951,Berks,40.305600,-75.908100,PJM
+17235,NRG REMA LLC,3115,Titus,IPP Non-CHP,PA,3,,75.0,72.0,72.0,Conventional Steam Coal,BIT,ST,9,2013,4,1953,Berks,40.305600,-75.908100,PJM
+9788,John Deere Harvester Works Co,10039,John Deere Harvester Works,Industrial CHP,IL,GEN4,,2.5,2.5,2.5,Conventional Steam Coal,BIT,ST,9,2013,4,1949,Rock Island,41.524315,-90.436590,MISO
+14465,Park 500 Philip Morris USA,50275,Park 500 Philip Morris USA,Industrial CHP,VA,TG2,,6.1,0.0,0.0,Conventional Steam Coal,BIT,ST,9,2013,4,1984,Chesterfield,37.338900,-77.280600,PJM
+19194,Syracuse Energy Corp,50651,Syracuse Energy,IPP CHP,NY,GEN1,,90.6,62.8,61.9,Conventional Steam Coal,BIT,ST,9,2013,8,1991,Onondaga,43.065300,-76.208600,NYIS
+19194,Syracuse Energy Corp,50651,Syracuse Energy,IPP CHP,NY,GEN2,,10.5,11.0,11.0,Conventional Steam Coal,BIT,ST,9,2013,7,2002,Onondaga,43.065300,-76.208600,NYIS
+12341,MidAmerican Energy Co,1081,Riverside,Electric Utility,IA,3HS,,5.0,4.0,4.0,Conventional Steam Coal,SUB,ST,8,2013,5,1949,Scott,41.540000,-90.448100,MISO
+772,Archer Daniels Midland Co,10866,Archer Daniels Midland Peoria,Industrial CHP,IL,GEN1,,1.5,1.5,1.5,Conventional Steam Coal,BIT,ST,8,2013,1,1934,Peoria,40.677188,-89.604910,MISO
+18642,Tennessee Valley Authority,50,Widows Creek,Electric Utility,AL,3,,140.6,111.0,113.0,Conventional Steam Coal,BIT,ST,7,2013,11,1952,Jackson,34.883022,-85.755250,TVA
+18642,Tennessee Valley Authority,50,Widows Creek,Electric Utility,AL,5,,140.6,111.0,113.0,Conventional Steam Coal,BIT,ST,7,2013,6,1954,Jackson,34.883022,-85.755250,TVA
+9332,Indian River Operations Inc,594,Indian River Generating Station,IPP Non-CHP,DE,1,,81.6,89.0,89.0,Conventional Steam Coal,BIT,ST,7,2013,10,1957,Sussex,38.585700,-75.234100,PJM
+9332,Indian River Operations Inc,594,Indian River Generating Station,IPP Non-CHP,DE,2,,81.6,89.0,89.0,Conventional Steam Coal,BIT,ST,7,2013,11,1959,Sussex,38.585700,-75.234100,PJM
+9417,Interstate Power and Light Co,1047,Lansing,Electric Utility,IA,3,,37.5,29.4,29.5,Conventional Steam Coal,SUB,ST,6,2013,1,1957,Allamakee,43.335900,-91.167500,MISO
+4922,Dayton Power & Light Co,2848,O H Hutchings,Electric Utility,OH,4,,69.0,63.0,64.0,Conventional Steam Coal,BIT,ST,6,2013,2,1951,Montgomery,39.608800,-84.292100,PJM
+17235,NRG REMA LLC,3113,Portland (PA),IPP Non-CHP,PA,2,,255.0,226.0,226.0,Conventional Steam Coal,BIT,ST,6,2013,9,1962,Northampton,40.910205,-75.079400,PJM
+5416,"Duke Energy Carolinas, LLC",2720,Buck,Electric Utility,NC,5,,125.0,128.0,131.0,Conventional Steam Coal,BIT,ST,5,2013,9,1953,Rowan,35.713300,-80.376700,DUK
+5416,"Duke Energy Carolinas, LLC",2720,Buck,Electric Utility,NC,6,,125.0,128.0,131.0,Conventional Steam Coal,BIT,ST,5,2013,12,1953,Rowan,35.713300,-80.376700,DUK
+5416,"Duke Energy Carolinas, LLC",2732,Riverbend,Electric Utility,NC,4,,100.0,94.0,96.0,Conventional Steam Coal,BIT,ST,5,2013,10,1952,Gaston,35.360000,-80.974200,DUK
+5416,"Duke Energy Carolinas, LLC",2732,Riverbend,Electric Utility,NC,5,,100.0,94.0,96.0,Conventional Steam Coal,BIT,ST,5,2013,11,1952,Gaston,35.360000,-80.974200,DUK
+5416,"Duke Energy Carolinas, LLC",2732,Riverbend,Electric Utility,NC,6,,133.0,133.0,136.0,Conventional Steam Coal,BIT,ST,5,2013,8,1954,Gaston,35.360000,-80.974200,DUK
+5416,"Duke Energy Carolinas, LLC",2732,Riverbend,Electric Utility,NC,7,,133.0,133.0,136.0,Conventional Steam Coal,BIT,ST,5,2013,11,1954,Gaston,35.360000,-80.974200,DUK
+2999,Caraustar Industries Inc,54235,Rittman Paperboard,Industrial CHP,OH,GEN1,,3.0,3.0,3.0,Conventional Steam Coal,BIT,ST,4,2013,1,1928,WAYNE,40.969200,-81.773600,PJM
+2999,Caraustar Industries Inc,54235,Rittman Paperboard,Industrial CHP,OH,GEN2,,5.0,5.0,5.0,Conventional Steam Coal,BIT,ST,4,2013,1,1940,WAYNE,40.969200,-81.773600,PJM
+2999,Caraustar Industries Inc,54235,Rittman Paperboard,Industrial CHP,OH,GEN3,,6.0,6.0,6.0,Conventional Steam Coal,BIT,ST,4,2013,6,1946,WAYNE,40.969200,-81.773600,PJM
+24263,Cellu Tissue Holdings Inc,52017,Menominee Acquisition,Industrial CHP,MI,ST2,,2.5,2.5,2.5,Conventional Steam Coal,BIT,ST,3,2013,6,1950,Menominee,45.097500,-87.595800,MISO
+57303,State of Illinois,57918,Jacksonville Developmental Center,Commercial CHP,IL,1,,0.7,0.7,0.7,Conventional Steam Coal,BIT,ST,3,2013,6,1945,Morgan,39.716667,-90.237220,MISO
+57303,State of Illinois,57918,Jacksonville Developmental Center,Commercial CHP,IL,2,,0.7,0.7,0.7,Conventional Steam Coal,BIT,ST,3,2013,6,1945,Morgan,39.716667,-90.237220,MISO
+57303,State of Illinois,57918,Jacksonville Developmental Center,Commercial CHP,IL,3,,2.0,2.0,2.0,Conventional Steam Coal,BIT,ST,3,2013,6,1945,Morgan,39.716667,-90.237220,MISO
+10171,Kentucky Utilities Co,1361,Tyrone,Electric Utility,KY,3,,75.0,71.0,73.0,Conventional Steam Coal,BIT,ST,2,2013,7,1953,Woodford,38.047800,-84.848300,LGEE
+58620,AEP Generation Resources Inc,2840,Conesville,IPP Non-CHP,OH,3,,161.5,165.0,165.0,Conventional Steam Coal,BIT,ST,12,2012,10,1962,Coshocton,40.184200,-81.881100,PJM
+17539,South Carolina Electric&Gas Company,3280,Canadys Steam,Electric Utility,SC,1,,136.0,105.0,90.0,Conventional Steam Coal,BIT,ST,12,2012,4,1962,Colleton,33.064700,-80.622800,SCEG
+17543,South Carolina Public Service Authority,3317,Dolphus M Grainger,Electric Utility,SC,1,,81.6,83.0,85.0,Conventional Steam Coal,BIT,ST,12,2012,6,1966,Horry,33.826655,-79.053370,SC
+17543,South Carolina Public Service Authority,3317,Dolphus M Grainger,Electric Utility,SC,2,,81.6,83.0,85.0,Conventional Steam Coal,BIT,ST,12,2012,6,1966,Horry,33.826655,-79.053370,SC
+17543,South Carolina Public Service Authority,3319,Jefferies,Electric Utility,SC,3,,172.8,152.0,152.0,Conventional Steam Coal,BIT,ST,12,2012,1,1970,Berkeley,33.244404,-79.990910,SC
+17543,South Carolina Public Service Authority,3319,Jefferies,Electric Utility,SC,4,,172.8,150.0,155.0,Conventional Steam Coal,BIT,ST,12,2012,1,1970,Berkeley,33.244404,-79.990910,SC
+18642,Tennessee Valley Authority,3405,John Sevier,Electric Utility,TN,1,,200.0,176.0,178.0,Conventional Steam Coal,BIT,ST,12,2012,7,1955,Hawkins,36.376700,-82.963900,TVA
+18642,Tennessee Valley Authority,3405,John Sevier,Electric Utility,TN,2,,200.0,176.0,178.0,Conventional Steam Coal,BIT,ST,12,2012,9,1955,Hawkins,36.376700,-82.963900,TVA
+19876,Virginia Electric & Power Co,7537,North Branch (WV),Electric Utility,WV,1,,80.0,74.0,77.0,Conventional Steam Coal,WC,ST,12,2012,5,1992,Grant,39.263300,-79.330800,PJM
+42,AES Thames LLC,10675,AES Thames,IPP CHP,CT,GEN1,,213.9,181.0,181.0,Conventional Steam Coal,BIT,ST,12,2012,11,1989,New London,41.260700,-72.055000,
+772,Archer Daniels Midland Co,10866,Archer Daniels Midland Peoria,Industrial CHP,IL,GEN5,,4.0,4.0,4.0,Conventional Steam Coal,BIT,ST,12,2012,1,1985,Peoria,40.677188,-89.604910,MISO
+3046,Duke Energy Progress - (NC),2708,Cape Fear,Electric Utility,NC,5,,140.6,144.0,148.0,Conventional Steam Coal,BIT,ST,10,2012,12,1956,Chatham,35.595000,-79.049500,CPLE
+3046,Duke Energy Progress - (NC),2708,Cape Fear,Electric Utility,NC,6,,187.9,172.0,175.0,Conventional Steam Coal,BIT,ST,10,2012,7,1958,Chatham,35.595000,-79.049500,CPLE
+3046,Duke Energy Progress - (NC),2709,HF Lee Plant,Electric Utility,NC,1,,75.0,74.0,80.0,Conventional Steam Coal,BIT,ST,10,2012,6,1952,Wayne,35.379866,-78.087800,CPLE
+3046,Duke Energy Progress - (NC),2709,HF Lee Plant,Electric Utility,NC,2,,75.0,68.0,80.0,Conventional Steam Coal,BIT,ST,10,2012,5,1951,Wayne,35.379866,-78.087800,CPLE
+3046,Duke Energy Progress - (NC),2709,HF Lee Plant,Electric Utility,NC,3,,252.4,240.0,252.0,Conventional Steam Coal,BIT,ST,10,2012,8,1962,Wayne,35.379866,-78.087800,CPLE
+14165,NRG Power Midwest LP,2861,Niles Power Plant,IPP Non-CHP,OH,1,,132.8,108.0,108.0,Conventional Steam Coal,BIT,ST,10,2012,1,1954,Trumbull,41.166928,-80.747690,PJM
+3046,Duke Energy Progress - (NC),3251,H B Robinson,Electric Utility,SC,1,,206.6,177.0,179.0,Conventional Steam Coal,BIT,ST,10,2012,5,1960,Darlington,34.401700,-80.158900,CPLE
+12588,NRG Potomac River LLC,3788,Potomac River,IPP Non-CHP,VA,1,,92.0,88.0,88.0,Conventional Steam Coal,BIT,ST,10,2012,9,1949,Alexandria,38.820300,-77.041100,
+12588,NRG Potomac River LLC,3788,Potomac River,IPP Non-CHP,VA,2,,92.0,88.0,88.0,Conventional Steam Coal,BIT,ST,10,2012,6,1950,Alexandria,38.820300,-77.041100,
+12588,NRG Potomac River LLC,3788,Potomac River,IPP Non-CHP,VA,3,,110.0,102.0,102.0,Conventional Steam Coal,BIT,ST,10,2012,6,1954,Alexandria,38.820300,-77.041100,
+12588,NRG Potomac River LLC,3788,Potomac River,IPP Non-CHP,VA,4,,110.0,102.0,102.0,Conventional Steam Coal,BIT,ST,10,2012,2,1956,Alexandria,38.820300,-77.041100,
+12588,NRG Potomac River LLC,3788,Potomac River,IPP Non-CHP,VA,5,,110.0,102.0,102.0,Conventional Steam Coal,BIT,ST,10,2012,5,1957,Alexandria,38.820300,-77.041100,
+23279,Allegheny Energy Supply Co LLC,1570,FirstEnergy R Paul Smith Power Station,IPP Non-CHP,MD,11,,75.0,87.0,88.0,Conventional Steam Coal,BIT,ST,9,2012,11,1958,Washington,39.595000,-77.826940,PJM
+23279,Allegheny Energy Supply Co LLC,1570,FirstEnergy R Paul Smith Power Station,IPP Non-CHP,MD,9,,34.5,28.0,28.0,Conventional Steam Coal,BIT,ST,9,2012,10,1947,Washington,39.595000,-77.826940,PJM
+6526,FirstEnergy Generation Corp,2837,FirstEnergy Eastlake,IPP Non-CHP,OH,4,,208.0,240.0,240.0,Conventional Steam Coal,SUB,ST,9,2012,3,1956,Lake,41.671100,-81.442500,PJM
+6526,FirstEnergy Generation Corp,2837,FirstEnergy Eastlake,IPP Non-CHP,OH,5,,680.0,597.0,597.0,Conventional Steam Coal,BIT,ST,9,2012,9,1972,Lake,41.671100,-81.442500,PJM
+6526,FirstEnergy Generation Corp,2864,FirstEnergy R E Burger,IPP Non-CHP,OH,3,,103.4,94.0,94.0,Conventional Steam Coal,BIT,ST,9,2012,3,1950,Belmont,39.910000,-80.760830,PJM
+6526,FirstEnergy Generation Corp,2878,FirstEnergy Bay Shore,IPP Non-CHP,OH,2,,140.6,138.0,138.0,Conventional Steam Coal,SUB,ST,9,2012,2,1959,Lucas,41.691700,-83.437800,PJM
+6526,FirstEnergy Generation Corp,2878,FirstEnergy Bay Shore,IPP Non-CHP,OH,3,,140.6,142.0,142.0,Conventional Steam Coal,SUB,ST,9,2012,5,1963,Lucas,41.691700,-83.437800,PJM
+6526,FirstEnergy Generation Corp,2878,FirstEnergy Bay Shore,IPP Non-CHP,OH,4,,217.6,215.0,215.0,Conventional Steam Coal,SUB,ST,9,2012,6,1968,Lucas,41.691700,-83.437800,PJM
+23279,Allegheny Energy Supply Co LLC,3178,FirstEnergy Armstrong Power Station,IPP Non-CHP,PA,1,,163.2,172.0,180.0,Conventional Steam Coal,BIT,ST,9,2012,4,1958,Armstrong,40.929167,-79.465560,PJM
+23279,Allegheny Energy Supply Co LLC,3178,FirstEnergy Armstrong Power Station,IPP Non-CHP,PA,2,,163.2,172.0,176.0,Conventional Steam Coal,BIT,ST,9,2012,6,1959,Armstrong,40.929167,-79.465560,PJM
+12796,Monongahela Power Co,3942,FirstEnergy Albright,Electric Utility,WV,1,,69.0,73.0,76.0,Conventional Steam Coal,BIT,ST,9,2012,12,1952,Preston,39.488611,-79.636940,PJM
+12796,Monongahela Power Co,3942,FirstEnergy Albright,Electric Utility,WV,2,,69.0,73.0,76.0,Conventional Steam Coal,BIT,ST,9,2012,10,1952,Preston,39.488611,-79.636940,PJM
+12796,Monongahela Power Co,3942,FirstEnergy Albright,Electric Utility,WV,3,,140.2,137.0,140.0,Conventional Steam Coal,BIT,ST,9,2012,10,1954,Preston,39.488611,-79.636940,PJM
+12796,Monongahela Power Co,3945,FirstEnergy Rivesville,Electric Utility,WV,5,,35.0,37.0,39.0,Conventional Steam Coal,BIT,ST,9,2012,6,1943,Marion,39.531389,-80.113060,PJM
+12796,Monongahela Power Co,3945,FirstEnergy Rivesville,Electric Utility,WV,6,,74.7,88.0,91.0,Conventional Steam Coal,BIT,ST,9,2012,9,1951,Marion,39.531389,-80.113060,PJM
+12796,Monongahela Power Co,3946,FirstEnergy Willow Island,Electric Utility,WV,1,,50.0,54.0,55.0,Conventional Steam Coal,BIT,ST,9,2012,2,1949,Pleasants,39.367222,-81.300000,PJM
+12796,Monongahela Power Co,3946,FirstEnergy Willow Island,Electric Utility,WV,2,,163.2,181.0,186.0,Conventional Steam Coal,BIT,ST,9,2012,10,1960,Pleasants,39.367222,-81.300000,PJM
+54881,Horsehead Corporation,50130,G F Weaton Power Station,Industrial Non-CHP,PA,GEN1,,60.0,56.0,60.0,Conventional Steam Coal,SUB,ST,9,2012,8,1958,Beaver,40.667318,-80.346200,PJM
+54881,Horsehead Corporation,50130,G F Weaton Power Station,Industrial Non-CHP,PA,GEN2,,60.0,56.0,60.0,Conventional Steam Coal,SUB,ST,9,2012,5,1958,Beaver,40.667318,-80.346200,PJM
+55973,Catalyst Paper Corp,50805,Catalyst Paper Snowflake Mill,Industrial CHP,AZ,GEN1,,27.2,26.0,27.0,Conventional Steam Coal,SUB,ST,9,2012,6,1961,NAVAJO,34.504950,-110.335500,
+55973,Catalyst Paper Corp,50805,Catalyst Paper Snowflake Mill,Industrial CHP,AZ,GEN2,,43.3,42.0,46.0,Conventional Steam Coal,SUB,ST,9,2012,12,1974,NAVAJO,34.504950,-110.335500,
+12384,Midwest Generations EME LLC,867,Crawford,IPP Non-CHP,IL,7,,239.3,213.0,216.0,Conventional Steam Coal,SUB,ST,8,2012,5,1958,Cook,41.828480,-87.722910,PJM
+12384,Midwest Generations EME LLC,867,Crawford,IPP Non-CHP,IL,8,,358.1,319.0,326.0,Conventional Steam Coal,SUB,ST,8,2012,4,1961,Cook,41.828480,-87.722910,PJM
+12384,Midwest Generations EME LLC,886,Fisk Street,IPP Non-CHP,IL,19,,374.0,326.0,326.0,Conventional Steam Coal,SUB,ST,8,2012,7,1968,Cook,41.850800,-87.653300,PJM
+56208,Smart Papers Holdings LLC,50247,Smart Papers LLC,Industrial CHP,OH,1,,1.0,1.0,1.0,Conventional Steam Coal,BIT,ST,8,2012,6,2009,Butler,39.409400,-84.561900,
+56208,Smart Papers Holdings LLC,50247,Smart Papers LLC,Industrial CHP,OH,2,,1.5,1.5,1.5,Conventional Steam Coal,BIT,ST,8,2012,6,2009,Butler,39.409400,-84.561900,
+56208,Smart Papers Holdings LLC,50247,Smart Papers LLC,Industrial CHP,OH,7,,9.4,9.4,9.4,Conventional Steam Coal,BIT,ST,8,2012,6,2009,Butler,39.409400,-84.561900,
+56208,Smart Papers Holdings LLC,50247,Smart Papers LLC,Industrial CHP,OH,8,,9.4,9.4,9.4,Conventional Steam Coal,BIT,ST,8,2012,6,2009,Butler,39.409400,-84.561900,
+56208,Smart Papers Holdings LLC,50247,Smart Papers LLC,Industrial CHP,OH,GEN3,,6.0,6.0,6.0,Conventional Steam Coal,BIT,ST,8,2012,1,1924,Butler,39.409400,-84.561900,
+56208,Smart Papers Holdings LLC,50247,Smart Papers LLC,Industrial CHP,OH,GEN5,,7.5,7.5,7.5,Conventional Steam Coal,BIT,ST,8,2012,1,1930,Butler,39.409400,-84.561900,
+56208,Smart Papers Holdings LLC,50247,Smart Papers LLC,Industrial CHP,OH,GEN6,,10.5,10.5,10.5,Conventional Steam Coal,BIT,ST,8,2012,1,1930,Butler,39.409400,-84.561900,
+17609,Southern California Edison Co,2341,Mohave,Electric Utility,NV,1,,818.1,790.0,790.0,Conventional Steam Coal,SUB,ST,7,2012,4,1971,Clark,35.145800,-114.591700,CISO
+17609,Southern California Edison Co,2341,Mohave,Electric Utility,NV,2,,818.1,790.0,790.0,Conventional Steam Coal,SUB,ST,7,2012,10,1971,Clark,35.145800,-114.591700,CISO
+14645,City of Pella - (IA),1175,Pella,Electric Utility,IA,5,,11.5, , ,Conventional Steam Coal,SUB,ST,6,2012,5,1964,Marion,41.398100,-92.914400,MISO
+14645,City of Pella - (IA),1175,Pella,Electric Utility,IA,6,,26.5, , ,Conventional Steam Coal,SUB,ST,6,2012,7,1972,Marion,41.398100,-92.914400,MISO
+14165,NRG Power Midwest LP,2861,Niles Power Plant,IPP Non-CHP,OH,2,,132.8,108.0,108.0,Conventional Steam Coal,BIT,ST,6,2012,1,1954,Trumbull,41.166928,-80.747690,PJM
+40307,"Prairie Power, Inc",6238,Pearl Station,Electric Utility,IL,1,,22.0,22.2,22.2,Conventional Steam Coal,BIT,ST,6,2012,1,1967,Pike,39.449185,-90.614120,MISO
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,Electric Utility,OH,1,,115.0,94.0,94.0,Conventional Steam Coal,BIT,ST,5,2012,6,1952,Clermont,38.991700,-84.298100,PJM
+6035,Exelon Power,3161,Eddystone Generating Station,IPP Non-CHP,PA,2,,353.6,309.0,311.0,Conventional Steam Coal,BIT,ST,5,2012,10,1960,Delaware,39.858000,-75.323000,PJM
+15466,Public Service Co of Colorado,469,Cherokee,Electric Utility,CO,1,,125.0,107.0,107.0,Conventional Steam Coal,BIT,ST,4,2012,6,1957,Adams,39.807275,-104.964500,PSCO
+5416,"Duke Energy Carolinas, LLC",2723,Dan River,Electric Utility,NC,1,,70.0,67.0,69.0,Conventional Steam Coal,BIT,ST,4,2012,12,1949,Rockingham,36.486200,-79.720800,DUK
+5416,"Duke Energy Carolinas, LLC",2723,Dan River,Electric Utility,NC,2,,70.0,67.0,69.0,Conventional Steam Coal,BIT,ST,4,2012,3,1950,Rockingham,36.486200,-79.720800,DUK
+5416,"Duke Energy Carolinas, LLC",2723,Dan River,Electric Utility,NC,3,,150.0,142.0,145.0,Conventional Steam Coal,BIT,ST,4,2012,8,1955,Rockingham,36.486200,-79.720800,DUK
+17043,City of Shelby - (OH),2943,Shelby Municipal Light Plant,Electric Utility,OH,3,,5.0,5.0,5.0,Conventional Steam Coal,BIT,ST,4,2012,4,1948,Richland,40.880000,-82.656700,PJM
+56190,Savannah River Nuclear Solutions LLC,7652,US DOE Savannah River Site (D Area),IPP CHP,SC,HP-1,,9.4,9.4,9.4,Conventional Steam Coal,BIT,ST,4,2012,1,1952,Aiken,33.290600,-81.683100,
+56190,Savannah River Nuclear Solutions LLC,7652,US DOE Savannah River Site (D Area),IPP CHP,SC,HP-2,,9.4,9.4,9.4,Conventional Steam Coal,BIT,ST,4,2012,1,1952,Aiken,33.290600,-81.683100,
+56190,Savannah River Nuclear Solutions LLC,7652,US DOE Savannah River Site (D Area),IPP CHP,SC,HP-3,,9.4,9.4,9.4,Conventional Steam Coal,BIT,ST,4,2012,1,1952,Aiken,33.290600,-81.683100,
+56190,Savannah River Nuclear Solutions LLC,7652,US DOE Savannah River Site (D Area),IPP CHP,SC,LP-1,,12.5,12.5,12.5,Conventional Steam Coal,BIT,ST,4,2012,1,1952,Aiken,33.290600,-81.683100,
+56190,Savannah River Nuclear Solutions LLC,7652,US DOE Savannah River Site (D Area),IPP CHP,SC,LP-2,,12.5,12.5,12.5,Conventional Steam Coal,BIT,ST,4,2012,1,1952,Aiken,33.290600,-81.683100,
+56190,Savannah River Nuclear Solutions LLC,7652,US DOE Savannah River Site (D Area),IPP CHP,SC,LP-3,,12.5,12.5,12.5,Conventional Steam Coal,BIT,ST,4,2012,1,1952,Aiken,33.290600,-81.683100,
+56190,Savannah River Nuclear Solutions LLC,7652,US DOE Savannah River Site (D Area),IPP CHP,SC,LP-4,,12.5,12.5,12.5,Conventional Steam Coal,BIT,ST,4,2012,1,1952,Aiken,33.290600,-81.683100,
+772,Archer Daniels Midland Co,55638,Walhalla,Industrial CHP,ND,GEN1,,2.0,2.0,2.0,Conventional Steam Coal,SUB,ST,4,2012,12,2000,Pembina,48.908944,-97.886520,MISO
+18041,State Line Energy LLC,981,State Line Energy,IPP Non-CHP,IN,3,G361,124.9,124.9,124.9,Conventional Steam Coal,SUB,ST,3,2012,12,1955,Lake,41.707200,-87.521700,
+18041,State Line Energy LLC,981,State Line Energy,IPP Non-CHP,IN,3A,G361,100.0, , ,Conventional Steam Coal,SUB,ST,3,2012,12,1955,Lake,41.707200,-87.521700,
+18041,State Line Energy LLC,981,State Line Energy,IPP Non-CHP,IN,4,G362,209.4,209.4,209.4,Conventional Steam Coal,SUB,ST,3,2012,5,1962,Lake,41.707200,-87.521700,
+18041,State Line Energy LLC,981,State Line Energy,IPP Non-CHP,IN,4A,G362,179.5, , ,Conventional Steam Coal,SUB,ST,3,2012,5,1962,Lake,41.707200,-87.521700,
+4716,Dairyland Power Coop,4140,Alma,Electric Utility,WI,1,,15.0,18.9,20.6,Conventional Steam Coal,BIT,ST,3,2012,9,1947,Buffalo,44.308333,-91.911110,MISO
+4716,Dairyland Power Coop,4140,Alma,Electric Utility,WI,2,,15.0,18.0,19.7,Conventional Steam Coal,BIT,ST,3,2012,10,1947,Buffalo,44.308333,-91.911110,MISO
+4716,Dairyland Power Coop,4140,Alma,Electric Utility,WI,3,,15.0,18.9,20.6,Conventional Steam Coal,BIT,ST,3,2012,7,1951,Buffalo,44.308333,-91.911110,MISO
+9788,John Deere Harvester Works Co,10039,John Deere Harvester Works,Industrial CHP,IL,GEN5,,3.0,3.0,3.0,Conventional Steam Coal,BIT,ST,3,2012,11,1951,Rock Island,41.524315,-90.436590,MISO
+353,Air Products Energy Enterprises LP,10640,Stockton Cogen,IPP CHP,CA,GEN1,,60.0,53.7,53.7,Conventional Steam Coal,BIT,ST,3,2012,3,1988,San Joaquin,37.911900,-121.261100,CISO
+7140,Georgia Power Co,710,Jack McDonough,Electric Utility,GA,1,,299.2,251.0,251.0,Conventional Steam Coal,BIT,ST,2,2012,8,1963,Cobb,33.823900,-84.475800,SOCO
+15470,"Duke Energy Indiana, LLC",1008,R Gallagher,Electric Utility,IN,1,,150.0,140.0,140.0,Conventional Steam Coal,BIT,ST,2,2012,6,1959,Floyd,38.263600,-85.838100,MISO
+15470,"Duke Energy Indiana, LLC",1008,R Gallagher,Electric Utility,IN,3,,150.0,140.0,140.0,Conventional Steam Coal,BIT,ST,2,2012,4,1960,Floyd,38.263600,-85.838100,MISO
+733,Appalachian Power Co,3938,Philip Sporn,Electric Utility,WV,5,,495.5,440.0,450.0,Conventional Steam Coal,BIT,ST,2,2012,12,1960,Mason,38.966900,-81.923100,PJM
+35120,Norit Americas Inc,54972,Norit Americas Marshall Plant,Industrial Non-CHP,TX,8512,,2.0,2.0,2.0,Conventional Steam Coal,LIG,ST,2,2012,3,2011,Harrison,32.536941,-94.399340,
+57424,Miller Coors Eden LLC,58050,Miller Coors Eden LLC,Industrial CHP,NC,TRB1,,5.5,5.0,5.0,Conventional Steam Coal,BIT,ST,1,2012,2,1978,Rockingham,36.518889,-79.715280,DUK

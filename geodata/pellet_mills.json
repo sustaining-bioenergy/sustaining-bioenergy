@@ -1,0 +1,1670 @@
+{
+    "count": 185,
+    "plants": [
+        {
+            "id": 6948,
+            "title": "Airex Energy",
+            "city": "Becancour",
+            "state": "QC",
+            "lat": "46.394176",
+            "long": "-72.325499",
+            "url": "/plants/view/6948"
+        },
+        {
+            "id": 6748,
+            "title": "Alexander Energy ",
+            "city": "Kane",
+            "state": "PA",
+            "lat": "41.666859",
+            "long": "-78.814313",
+            "url": "/plants/view/6748"
+        },
+        {
+            "id": 6749,
+            "title": "American Wood Fibers-Circleville",
+            "city": "Circleville",
+            "state": "OH",
+            "lat": "39.562195",
+            "long": "-82.943366",
+            "url": "/plants/view/6749"
+        },
+        {
+            "id": 6751,
+            "title": "American Wood Fibers-Wisconsin",
+            "city": "Schofield",
+            "state": "WI",
+            "lat": "44.921923",
+            "long": "-89.600801",
+            "url": "/plants/view/6751"
+        },
+        {
+            "id": 6750,
+            "title": "American Wood Fibers-Marion",
+            "city": "Marion",
+            "state": "VA",
+            "lat": "36.813236",
+            "long": "-81.649159",
+            "url": "/plants/view/6750"
+        },
+        {
+            "id": 6752,
+            "title": "Appalachian Wood Pellets",
+            "city": "Kingwood",
+            "state": "WV",
+            "lat": "39.46687",
+            "long": "-79.647725",
+            "url": "/plants/view/6752"
+        },
+        {
+            "id": 6753,
+            "title": "Associated Harvest",
+            "city": "La Fargeville",
+            "state": "NY",
+            "lat": "44.160488",
+            "long": "-75.973302",
+            "url": "/plants/view/6753"
+        },
+        {
+            "id": 6754,
+            "title": "Bald Eagle Pellet ",
+            "city": "Tyrone",
+            "state": "PA",
+            "lat": "40.709858",
+            "long": "null",
+            "url": "/plants/view/6754"
+        },
+        {
+            "id": 6755,
+            "title": "Barefoot Pellet ",
+            "city": "Troy",
+            "state": "PA",
+            "lat": "41.813087",
+            "long": "-76.786779",
+            "url": "/plants/view/6755"
+        },
+        {
+            "id": 2263,
+            "title": "Dry Creek Products",
+            "city": "Arcade",
+            "state": "NY",
+            "lat": "42.526357",
+            "long": "-78.455547",
+            "url": "/plants/view/2263"
+        },
+        {
+            "id": 6756,
+            "title": "PA Pellets",
+            "city": "Ulysses",
+            "state": "PA",
+            "lat": "41.899338",
+            "long": "-77.778354",
+            "url": "/plants/view/6756"
+        },
+        {
+            "id": 6757,
+            "title": "Blue Mountain Lumber Products",
+            "city": "Pendleton",
+            "state": "OR",
+            "lat": "45.664589",
+            "long": "-118.863487",
+            "url": "/plants/view/6757"
+        },
+        {
+            "id": 6758,
+            "title": "Wood Pellets C&C Smith Lumber",
+            "city": "Summerhill",
+            "state": "PA",
+            "lat": "40.410326",
+            "long": "-78.760962",
+            "url": "/plants/view/6758"
+        },
+        {
+            "id": 6950,
+            "title": "Fort St. John Sawmill",
+            "city": "Fort St. John",
+            "state": "BC",
+            "lat": "56.2375",
+            "long": "-120.772281",
+            "url": "/plants/view/6950"
+        },
+        {
+            "id": 6949,
+            "title": "Chetwynd Sawmill",
+            "city": "Chetwynd",
+            "state": "BC",
+            "lat": "55.702039",
+            "long": "-121.625047",
+            "url": "/plants/view/6949"
+        },
+        {
+            "id": 6759,
+            "title": "Chip Energy ",
+            "city": "Goodfield",
+            "state": "IL",
+            "lat": "40.618334",
+            "long": "-89.279518",
+            "url": "/plants/view/6759"
+        },
+        {
+            "id": 6993,
+            "title": "Confluence Energy-Kremmling (IDLE)",
+            "city": "Kremmling",
+            "state": "CO",
+            "lat": "40.051714",
+            "long": "-106.370466",
+            "url": "/plants/view/6993"
+        },
+        {
+            "id": 6761,
+            "title": "Confluence Energy-Walden",
+            "city": "Walden",
+            "state": "CO",
+            "lat": "40.719998",
+            "long": "-106.306876",
+            "url": "/plants/view/6761"
+        },
+        {
+            "id": 6994,
+            "title": "Corinth Wood Pellets (IDLE)",
+            "city": "Corinth",
+            "state": "ME",
+            "lat": "44.992605",
+            "long": "-69.009022",
+            "url": "/plants/view/6994"
+        },
+        {
+            "id": 6763,
+            "title": "Cottles Island Lumber ",
+            "city": "Summerford",
+            "state": "NL",
+            "lat": "null",
+            "long": "null",
+            "url": "/plants/view/6763"
+        },
+        {
+            "id": 6951,
+            "title": "Crabbe Lumber ",
+            "city": "Florenceville-Bristol",
+            "state": "NB",
+            "lat": "null",
+            "long": "null",
+            "url": "/plants/view/6951"
+        },
+        {
+            "id": 6764,
+            "title": "Curran Renewable Energy",
+            "city": "Massena",
+            "state": "NY",
+            "lat": "44.908802",
+            "long": "-74.890934",
+            "url": "/plants/view/6764"
+        },
+        {
+            "id": 6765,
+            "title": "Dejno's",
+            "city": "Kenosha",
+            "state": "WI",
+            "lat": "42.58333",
+            "long": "-87.88477",
+            "url": "/plants/view/6765"
+        },
+        {
+            "id": 6952,
+            "title": "Merritt Wood Pellet & Torrefaction Plant (IDLE)",
+            "city": "Merritt",
+            "state": "BC",
+            "lat": "50.103276",
+            "long": "-120.781953",
+            "url": "/plants/view/6952"
+        },
+        {
+            "id": 6766,
+            "title": "Dover Resources Inc.",
+            "city": "Stockton",
+            "state": "CA",
+            "lat": "37.95778",
+            "long": "-121.363778",
+            "url": "/plants/view/6766"
+        },
+        {
+            "id": 6768,
+            "title": "LaSalle BioEnergy",
+            "city": "Olla",
+            "state": "LA",
+            "lat": "31.879213",
+            "long": "-92.279353",
+            "url": "/plants/view/6768"
+        },
+        {
+            "id": 6769,
+            "title": "Amite BioEnergy",
+            "city": "Gloster",
+            "state": "MS",
+            "lat": "31.18338",
+            "long": "-91.03541",
+            "url": "/plants/view/6769"
+        },
+        {
+            "id": 6767,
+            "title": "Morehouse BioEnergy",
+            "city": "Atlanta",
+            "state": "GA",
+            "lat": "32.796224",
+            "long": "-91.753882",
+            "url": "/plants/view/6767"
+        },
+        {
+            "id": 6996,
+            "title": "Nahunta Wood Pellets (IDLE)",
+            "city": "Nahunta",
+            "state": "GA",
+            "lat": "31.209652",
+            "long": "-81.955452",
+            "url": "/plants/view/6996"
+        },
+        {
+            "id": 6770,
+            "title": "Eastford Wood Fibre ",
+            "city": "Eastford",
+            "state": "CT",
+            "lat": "null",
+            "long": "-72.088976",
+            "url": "/plants/view/6770"
+        },
+        {
+            "id": 6773,
+            "title": "Easy Heat-Bensalem",
+            "city": "Bensalem",
+            "state": "PA",
+            "lat": "40.05896",
+            "long": "-74.97808",
+            "url": "/plants/view/6773"
+        },
+        {
+            "id": 6772,
+            "title": "Easy Heat-S. Charleston",
+            "city": "S. Charleston",
+            "state": "OH",
+            "lat": "39.819911",
+            "long": "null",
+            "url": "/plants/view/6772"
+        },
+        {
+            "id": 6771,
+            "title": "Easy Heat-Indianapolis",
+            "city": "Indianapolis",
+            "state": "IN",
+            "lat": "39.761997",
+            "long": "-86.195835",
+            "url": "/plants/view/6771"
+        },
+        {
+            "id": 6953,
+            "title": "Urban Biofuels",
+            "city": "Springfield",
+            "state": "ON",
+            "lat": "42.911424",
+            "long": "-80.668453",
+            "url": "/plants/view/6953"
+        },
+        {
+            "id": 5197,
+            "title": "Energex America Inc.",
+            "city": "Mifflintown",
+            "state": "PA",
+            "lat": "40.543992",
+            "long": "-77.368609",
+            "url": "/plants/view/5197"
+        },
+        {
+            "id": 6954,
+            "title": "Energex Pellet Fuel Inc.",
+            "city": "Lac-Megantic",
+            "state": "QC",
+            "lat": "45.576524",
+            "long": "-70.867288",
+            "url": "/plants/view/6954"
+        },
+        {
+            "id": 6774,
+            "title": "Enginuity Worldwide",
+            "city": "Centralia",
+            "state": "MO",
+            "lat": "39.123152",
+            "long": "-91.878708",
+            "url": "/plants/view/6774"
+        },
+        {
+            "id": 3045,
+            "title": "Enviva Pellets Northampton LLC",
+            "city": "Garysburg",
+            "state": "NC",
+            "lat": "36.44897",
+            "long": "-77.5757",
+            "url": "/plants/view/3045"
+        },
+        {
+            "id": 3758,
+            "title": "Enviva Pellets Cottondale LLC",
+            "city": "Cottondale",
+            "state": "FL",
+            "lat": "30.738903",
+            "long": "-85.391665",
+            "url": "/plants/view/3758"
+        },
+        {
+            "id": 3743,
+            "title": "Enviva Pellets Sampson",
+            "city": "Faison",
+            "state": "NC",
+            "lat": "35.117794",
+            "long": "-78.182454",
+            "url": "/plants/view/3743"
+        },
+        {
+            "id": 2274,
+            "title": "Enviva Pellets Ahoskie",
+            "city": "Ahoskie",
+            "state": "NC",
+            "lat": "36.268731",
+            "long": "-76.9647",
+            "url": "/plants/view/2274"
+        },
+        {
+            "id": 2275,
+            "title": "Enviva Pellets Amory",
+            "city": "Amory",
+            "state": "MS",
+            "lat": "33.991694",
+            "long": "-88.508564",
+            "url": "/plants/view/2275"
+        },
+        {
+            "id": 4652,
+            "title": "Enviva Pellets Hamlet",
+            "city": "Hamlet",
+            "state": "NC",
+            "lat": "34.892079",
+            "long": "-79.702771",
+            "url": "/plants/view/4652"
+        },
+        {
+            "id": 6995,
+            "title": "Enviva Pellets Wiggins (IDLE)",
+            "city": "Wiggins",
+            "state": "MS",
+            "lat": "30.796179",
+            "long": "-89.128685",
+            "url": "/plants/view/6995"
+        },
+        {
+            "id": 6776,
+            "title": "Enviva Pellets Greenwood LLC",
+            "city": "Greenwood",
+            "state": "SC",
+            "lat": "34.232203",
+            "long": "-82.062529",
+            "url": "/plants/view/6776"
+        },
+        {
+            "id": 6777,
+            "title": "Enviva Pellets Southampton, LLC",
+            "city": "Franklin",
+            "state": "VA",
+            "lat": "36.65255",
+            "long": "-76.973083",
+            "url": "/plants/view/6777"
+        },
+        {
+            "id": 6782,
+            "title": "Equustock-Troy",
+            "city": "Troy",
+            "state": "VA",
+            "lat": "37.968115",
+            "long": "-78.21476",
+            "url": "/plants/view/6782"
+        },
+        {
+            "id": 6781,
+            "title": "Equustock-Chester",
+            "city": "Chester",
+            "state": "VA",
+            "lat": "37.354518",
+            "long": "-77.31148",
+            "url": "/plants/view/6781"
+        },
+        {
+            "id": 6779,
+            "title": "Equustock-Montebrook",
+            "city": "Montbrook",
+            "state": "FL",
+            "lat": "29.319876",
+            "long": "-82.428318",
+            "url": "/plants/view/6779"
+        },
+        {
+            "id": 6780,
+            "title": "Equustock-Rapid City",
+            "city": "Rapid City",
+            "state": "SD",
+            "lat": "44.034156",
+            "long": "-103.183444",
+            "url": "/plants/view/6780"
+        },
+        {
+            "id": 6783,
+            "title": "Essex Pallet & Pellet",
+            "city": "Keeseville",
+            "state": "NY",
+            "lat": "44.492344",
+            "long": "-73.4891",
+            "url": "/plants/view/6783"
+        },
+        {
+            "id": 6784,
+            "title": "Fiber By-Products Corp.",
+            "city": "White Pigeon",
+            "state": "MI",
+            "lat": "41.769031",
+            "long": "-85.665337",
+            "url": "/plants/view/6784"
+        },
+        {
+            "id": 6785,
+            "title": "Fiber Energy Products AR LLC",
+            "city": "Mountain View",
+            "state": "AR",
+            "lat": "35.867869",
+            "long": "-92.155112",
+            "url": "/plants/view/6785"
+        },
+        {
+            "id": 6786,
+            "title": "Ozark Hardwood Pellets",
+            "city": "Seymour",
+            "state": "MO",
+            "lat": "37.165111",
+            "long": "-92.75041",
+            "url": "/plants/view/6786"
+        },
+        {
+            "id": 6787,
+            "title": "Fiber Resources",
+            "city": "Pine Bluff",
+            "state": "AR",
+            "lat": "34.220458",
+            "long": "-91.894589",
+            "url": "/plants/view/6787"
+        },
+        {
+            "id": 6955,
+            "title": "Foothills Forest Products",
+            "city": "Grande Cache",
+            "state": "AB",
+            "lat": "53.88808",
+            "long": "-119.10534",
+            "url": "/plants/view/6955"
+        },
+        {
+            "id": 6788,
+            "title": "Forest Energy ",
+            "city": "Show Low",
+            "state": "AZ",
+            "lat": "34.258724",
+            "long": "-109.997628",
+            "url": "/plants/view/6788"
+        },
+        {
+            "id": 2236,
+            "title": "Appling County Pellets LLC",
+            "city": "Baxley",
+            "state": "GA",
+            "lat": "31.81548",
+            "long": "-82.46821",
+            "url": "/plants/view/2236"
+        },
+        {
+            "id": 6790,
+            "title": "Telfair Forest Products ",
+            "city": "Lumber City",
+            "state": "GA",
+            "lat": "31.924462",
+            "long": "-82.680877",
+            "url": "/plants/view/6790"
+        },
+        {
+            "id": 6789,
+            "title": "Hazlehurst Wood Pellets",
+            "city": "Hazlehurst",
+            "state": "GA",
+            "lat": "31.851159",
+            "long": "-82.577321",
+            "url": "/plants/view/6789"
+        },
+        {
+            "id": 6791,
+            "title": "Frank Pellets",
+            "city": "Mill City",
+            "state": "OR",
+            "lat": "44.747533",
+            "long": "-122.503695",
+            "url": "/plants/view/6791"
+        },
+        {
+            "id": 6997,
+            "title": "German Pellets Texas (IDLE)",
+            "city": "Woodville",
+            "state": "TX",
+            "lat": "30.74575",
+            "long": "-94.43571",
+            "url": "/plants/view/6997"
+        },
+        {
+            "id": 6956,
+            "title": "Gildale Farms",
+            "city": "St. Marys",
+            "state": "ON",
+            "lat": "43.295185",
+            "long": "-81.074532",
+            "url": "/plants/view/6956"
+        },
+        {
+            "id": 6792,
+            "title": "Godfrey Lumber ",
+            "city": "Statesville",
+            "state": "NC",
+            "lat": "35.761357",
+            "long": "-80.884729",
+            "url": "/plants/view/6792"
+        },
+        {
+            "id": 6794,
+            "title": "Golden Peanut Co.-Dawson",
+            "city": "Dawson",
+            "state": "GA",
+            "lat": "31.7806",
+            "long": "-84.44989",
+            "url": "/plants/view/6794"
+        },
+        {
+            "id": 6793,
+            "title": "Golden Peanut Co.-Headland",
+            "city": "Headland",
+            "state": "AL",
+            "lat": "31.35625",
+            "long": "-85.34123",
+            "url": "/plants/view/6793"
+        },
+        {
+            "id": 6957,
+            "title": "Granulco",
+            "city": "null",
+            "state": "QUE",
+            "lat": "48.269343",
+            "long": "-69.88883",
+            "url": "/plants/view/6957"
+        },
+        {
+            "id": 6958,
+            "title": "Granules de la Mauricie",
+            "city": "Shawinigan-Sud",
+            "state": "QUE",
+            "lat": "46.504924",
+            "long": "-72.716032",
+            "url": "/plants/view/6958"
+        },
+        {
+            "id": 6959,
+            "title": "Granules ",
+            "city": "St-Felicien",
+            "state": "QC",
+            "lat": "48.640439",
+            "long": "-72.420497",
+            "url": "/plants/view/6959"
+        },
+        {
+            "id": 6795,
+            "title": "Great Lakes Renewable Energy",
+            "city": "Hayward",
+            "state": "WI",
+            "lat": "45.98508",
+            "long": "-91.52408",
+            "url": "/plants/view/6795"
+        },
+        {
+            "id": 6960,
+            "title": "Scotia Atlantic Biomass",
+            "city": "Middle Musquodoboit",
+            "state": "NS",
+            "lat": "45.096004",
+            "long": "-63.044186",
+            "url": "/plants/view/6960"
+        },
+        {
+            "id": 6796,
+            "title": "Greene Team Pellets",
+            "city": "Carmichaels",
+            "state": "PA",
+            "lat": "39.818487",
+            "long": "-80.025498",
+            "url": "/plants/view/6796"
+        },
+        {
+            "id": 6961,
+            "title": "Groupe Savoie",
+            "city": "St-Quentin",
+            "state": "NB",
+            "lat": "47.513007",
+            "long": "-67.374431",
+            "url": "/plants/view/6961"
+        },
+        {
+            "id": 6962,
+            "title": "Crabbe Lumber ",
+            "city": "Florenceville-Bristol",
+            "state": "NB",
+            "lat": "46.471285",
+            "long": "-67.570429",
+            "url": "/plants/view/6962"
+        },
+        {
+            "id": 6797,
+            "title": "Hamer Pellet Fuel",
+            "city": "Elkins",
+            "state": "WV",
+            "lat": "38.917369",
+            "long": "-79.859019",
+            "url": "/plants/view/6797"
+        },
+        {
+            "id": 6798,
+            "title": "Hassell & Hughes Lumber ",
+            "city": "Collinwood",
+            "state": "TN",
+            "lat": "35.16965",
+            "long": "-87.74598",
+            "url": "/plants/view/6798"
+        },
+        {
+            "id": 6799,
+            "title": "Hearthside Wood Pellets",
+            "city": "Stamford",
+            "state": "NY",
+            "lat": "42.407829",
+            "long": "-74.62443",
+            "url": "/plants/view/6799"
+        },
+        {
+            "id": 6800,
+            "title": "Henry County Hardwoods ",
+            "city": "Paris",
+            "state": "TN",
+            "lat": "36.302338",
+            "long": "-88.377011",
+            "url": "/plants/view/6800"
+        },
+        {
+            "id": 6801,
+            "title": "Highland Pellets-Pine Bluff",
+            "city": "Pine Bluff",
+            "state": "AR",
+            "lat": "34.261599",
+            "long": "-92.059231",
+            "url": "/plants/view/6801"
+        },
+        {
+            "id": 6802,
+            "title": "Horizon Biofuels",
+            "city": "Fremont",
+            "state": "NE",
+            "lat": "41.419892",
+            "long": "-96.491837",
+            "url": "/plants/view/6802"
+        },
+        {
+            "id": 6963,
+            "title": "Hygreen",
+            "city": "Melancthon",
+            "state": "ON",
+            "lat": "44.235569",
+            "long": "-80.285156",
+            "url": "/plants/view/6963"
+        },
+        {
+            "id": 6964,
+            "title": "Granules Pellets Lacwood",
+            "city": "Hearst",
+            "state": "ON",
+            "lat": "49.672418",
+            "long": "-83.528748",
+            "url": "/plants/view/6964"
+        },
+        {
+            "id": 6803,
+            "title": "Indeck Energy Ladysmith LLC",
+            "city": "Ladysmith",
+            "state": "WI",
+            "lat": "45.443046",
+            "long": "-91.099641",
+            "url": "/plants/view/6803"
+        },
+        {
+            "id": 6804,
+            "title": "Ironstone Mills",
+            "city": "Leola",
+            "state": "PA",
+            "lat": "40.104668",
+            "long": "-76.237108",
+            "url": "/plants/view/6804"
+        },
+        {
+            "id": 6805,
+            "title": "Isabella Pellet",
+            "city": "Lake Isabella",
+            "state": "MI",
+            "lat": "43.64037",
+            "long": "-84.98492",
+            "url": "/plants/view/6805"
+        },
+        {
+            "id": 4719,
+            "title": "Wood Fuel Developers LLC",
+            "city": "Waverly",
+            "state": "VA",
+            "lat": "37.0297999",
+            "long": "-77.1077848",
+            "url": "/plants/view/4719"
+        },
+        {
+            "id": 6806,
+            "title": "Jensen Lumber ",
+            "city": "Ovid",
+            "state": "ID",
+            "lat": "42.287332",
+            "long": "-111.395069",
+            "url": "/plants/view/6806"
+        },
+        {
+            "id": 6965,
+            "title": "K.D. Quality Pellets",
+            "city": "New Liskeard",
+            "state": "ON",
+            "lat": "47.654815",
+            "long": "-79.705858",
+            "url": "/plants/view/6965"
+        },
+        {
+            "id": 6807,
+            "title": "Kingdom Biofuels",
+            "city": "Peach Bottom",
+            "state": "PA",
+            "lat": "39.78339",
+            "long": "-76.179745",
+            "url": "/plants/view/6807"
+        },
+        {
+            "id": 6808,
+            "title": "Kingdom Pellet",
+            "city": "Gilman",
+            "state": "VT",
+            "lat": "44.411622",
+            "long": "-71.72057",
+            "url": "/plants/view/6808"
+        },
+        {
+            "id": 6809,
+            "title": "Kirtland Products ",
+            "city": "Boyne City",
+            "state": "MI",
+            "lat": "45.207085",
+            "long": "-84.990208",
+            "url": "/plants/view/6809"
+        },
+        {
+            "id": 6966,
+            "title": "La Crete Sawmills ",
+            "city": "La Crete",
+            "state": "AB",
+            "lat": "58.14969",
+            "long": "-116.35481",
+            "url": "/plants/view/6966"
+        },
+        {
+            "id": 6967,
+            "title": "Lacwood Pellets",
+            "city": "Hearst",
+            "state": "ON",
+            "lat": "49.69232",
+            "long": "-83.667159",
+            "url": "/plants/view/6967"
+        },
+        {
+            "id": 6968,
+            "title": "Lauzon Recycled Wood Energy-Papineauville",
+            "city": "Papineauville",
+            "state": "QC",
+            "lat": "45.660116",
+            "long": "-75.032332",
+            "url": "/plants/view/6968"
+        },
+        {
+            "id": 6969,
+            "title": "Lauzon Recycled Wood Energy-Saint-Paulin",
+            "city": "Saint-Paulin",
+            "state": "QC",
+            "lat": "46.426943",
+            "long": "-73.016875",
+            "url": "/plants/view/6969"
+        },
+        {
+            "id": 6810,
+            "title": "Convergen Energy",
+            "city": "Green Bay",
+            "state": "WI",
+            "lat": "44.499794",
+            "long": "-88.036342",
+            "url": "/plants/view/6810"
+        },
+        {
+            "id": 6817,
+            "title": "Lignetics of Oregon-Cascade Locks",
+            "city": "Cascade Locks",
+            "state": "OR",
+            "lat": "45.679628",
+            "long": "-121.855084",
+            "url": "/plants/view/6817"
+        },
+        {
+            "id": 6812,
+            "title": "Lignetics of Maine Inc.",
+            "city": "Strong",
+            "state": "ME",
+            "lat": "44.806118",
+            "long": "-70.218478",
+            "url": "/plants/view/6812"
+        },
+        {
+            "id": 6813,
+            "title": "Lignetics of New England-Jaffrey",
+            "city": "Jaffrey",
+            "state": "NH",
+            "lat": "42.817891",
+            "long": "-71.985912",
+            "url": "/plants/view/6813"
+        },
+        {
+            "id": 6822,
+            "title": "Lignetics of West Virginia Inc.",
+            "city": "Linn",
+            "state": "WV",
+            "lat": "39.005633",
+            "long": "-80.720764",
+            "url": "/plants/view/6822"
+        },
+        {
+            "id": 6821,
+            "title": "Lignetics of Wisconsin-Peshtigo",
+            "city": "Peshtigo",
+            "state": "WI",
+            "lat": "45.060801",
+            "long": "-87.720803",
+            "url": "/plants/view/6821"
+        },
+        {
+            "id": 6820,
+            "title": "Lignetics of Wisconsin-Marathon",
+            "city": "Marathon",
+            "state": "WI",
+            "lat": "45.035135",
+            "long": "-89.84477",
+            "url": "/plants/view/6820"
+        },
+        {
+            "id": 6819,
+            "title": "Lignetics of Virginia Inc.",
+            "city": "Kenbridge",
+            "state": "VA",
+            "lat": "36.9408",
+            "long": "-78.087772",
+            "url": "/plants/view/6819"
+        },
+        {
+            "id": 6818,
+            "title": "Lignetics of New England-Allegheny",
+            "city": "Youngsville",
+            "state": "PA",
+            "lat": "41.864479",
+            "long": "-79.32837",
+            "url": "/plants/view/6818"
+        },
+        {
+            "id": 6816,
+            "title": "Lignetics of Oregon-Brownsville",
+            "city": "Brownsville",
+            "state": "OR",
+            "lat": "44.373472",
+            "long": "-123.010526",
+            "url": "/plants/view/6816"
+        },
+        {
+            "id": 6814,
+            "title": "Lignetics of New England-Deposit",
+            "city": "Deposit",
+            "state": "NY",
+            "lat": "42.050109",
+            "long": "-75.417876",
+            "url": "/plants/view/6814"
+        },
+        {
+            "id": 6815,
+            "title": "Lignetics of New England-Schuyler",
+            "city": "Schuyler",
+            "state": "NY",
+            "lat": "43.089052",
+            "long": "-75.121235",
+            "url": "/plants/view/6815"
+        },
+        {
+            "id": 6811,
+            "title": "Lignetics of Idaho Inc.",
+            "city": "Kootenai",
+            "state": "ID",
+            "lat": "48.307754",
+            "long": "-116.52245",
+            "url": "/plants/view/6811"
+        },
+        {
+            "id": 6823,
+            "title": "LJR Forest Products",
+            "city": "Swainsboro",
+            "state": "GA",
+            "lat": "32.510646",
+            "long": "-82.333196",
+            "url": "/plants/view/6823"
+        },
+        {
+            "id": 6824,
+            "title": "Maeder Brothers Quality Wood Pellets Inc.",
+            "city": "Weidman",
+            "state": "MI",
+            "lat": "43.685276",
+            "long": "-84.949679",
+            "url": "/plants/view/6824"
+        },
+        {
+            "id": 6825,
+            "title": "Maine Woods Pellet ",
+            "city": "Athens",
+            "state": "ME",
+            "lat": "44.946121",
+            "long": "-69.662854",
+            "url": "/plants/view/6825"
+        },
+        {
+            "id": 6826,
+            "title": "Mallard Creek",
+            "city": "Rocklin",
+            "state": "CA",
+            "lat": "38.809106",
+            "long": "-121.316159",
+            "url": "/plants/view/6826"
+        },
+        {
+            "id": 6827,
+            "title": "Manke Lumber",
+            "city": "Tacoma",
+            "state": "WA",
+            "lat": "47.264688",
+            "long": "-122.357247",
+            "url": "/plants/view/6827"
+        },
+        {
+            "id": 6970,
+            "title": "Marwood",
+            "city": "Fredericton",
+            "state": "NB",
+            "lat": "45.944663",
+            "long": "-66.683195",
+            "url": "/plants/view/6970"
+        },
+        {
+            "id": 6828,
+            "title": "Michigan Wood Fuels",
+            "city": "Holland",
+            "state": "MI",
+            "lat": "42.75843",
+            "long": "-86.087421",
+            "url": "/plants/view/6828"
+        },
+        {
+            "id": 6830,
+            "title": "Northeast Wood Products LLC-Ligonier",
+            "city": "Peebles",
+            "state": "OH",
+            "lat": "41.472831",
+            "long": "-85.595628",
+            "url": "/plants/view/6830"
+        },
+        {
+            "id": 6829,
+            "title": "Northeast Wood Products LLC-Crossville",
+            "city": "Crossville",
+            "state": "AL",
+            "lat": "34.272911",
+            "long": "-86.030031",
+            "url": "/plants/view/6829"
+        },
+        {
+            "id": 6832,
+            "title": "Northeast Wood Products LLC-Jasper",
+            "city": "Jasper",
+            "state": "TN",
+            "lat": "35.048378",
+            "long": "-85.641333",
+            "url": "/plants/view/6832"
+        },
+        {
+            "id": 6831,
+            "title": "Northeast Wood Products LLC-Peebles",
+            "city": "Peebles",
+            "state": "OH",
+            "lat": "38.93498",
+            "long": "-83.434472",
+            "url": "/plants/view/6831"
+        },
+        {
+            "id": 6833,
+            "title": "Mt. Taylor Machine Pellet Fuel",
+            "city": "Milan",
+            "state": "NM",
+            "lat": "35.019401",
+            "long": "-106.658207",
+            "url": "/plants/view/6833"
+        },
+        {
+            "id": 6834,
+            "title": "Nature's by Woodgrain Millwork-Fruitland",
+            "city": "Fruitland",
+            "state": "ID",
+            "lat": "44.025188",
+            "long": "-116.916754",
+            "url": "/plants/view/6834"
+        },
+        {
+            "id": 6836,
+            "title": "Nature's Earth Pellets NC LLC-Laurinburg",
+            "city": "Laurinburg",
+            "state": "NC",
+            "lat": "34.796059",
+            "long": "-79.461229",
+            "url": "/plants/view/6836"
+        },
+        {
+            "id": 6835,
+            "title": "Nature's Earth Pellets NC LLC-Reform",
+            "city": "Reform",
+            "state": "AL",
+            "lat": "33.358391",
+            "long": "-88.034649",
+            "url": "/plants/view/6835"
+        },
+        {
+            "id": 6837,
+            "title": "Spearfish Pellet Co.",
+            "city": "Spearfish",
+            "state": "SD",
+            "lat": "44.49835",
+            "long": "-103.88174",
+            "url": "/plants/view/6837"
+        },
+        {
+            "id": 6839,
+            "title": "North Idaho Energy Logs-Moyie Springs",
+            "city": "Moyie Springs",
+            "state": "ID",
+            "lat": "48.723062",
+            "long": "-116.192034",
+            "url": "/plants/view/6839"
+        },
+        {
+            "id": 6838,
+            "title": "North Idaho Energy Logs-Hauser",
+            "city": "Hauser",
+            "state": "ID",
+            "lat": "47.7444",
+            "long": "-117.01148",
+            "url": "/plants/view/6838"
+        },
+        {
+            "id": 6840,
+            "title": "Northeast Pellet",
+            "city": "Ashland",
+            "state": "ME",
+            "lat": "46.633953",
+            "long": "-68.432572",
+            "url": "/plants/view/6840"
+        },
+        {
+            "id": 6841,
+            "title": "Northland Pallet Inc.",
+            "city": "Hugo",
+            "state": "MN",
+            "lat": "45.141209",
+            "long": "-93.002003",
+            "url": "/plants/view/6841"
+        },
+        {
+            "id": 4696,
+            "title": "O'Malley Wood Pellets",
+            "city": "Tappahannock",
+            "state": "VA",
+            "lat": "37.915294",
+            "long": "-76.874745",
+            "url": "/plants/view/4696"
+        },
+        {
+            "id": 4682,
+            "title": "Malheur Pellet Mill",
+            "city": "John Day",
+            "state": "OR",
+            "lat": "44.422624",
+            "long": "-118.995625",
+            "url": "/plants/view/4682"
+        },
+        {
+            "id": 6971,
+            "title": "Pacific Bioenergy Pellet Mill",
+            "city": "Prince George",
+            "state": "BC",
+            "lat": "53.813676",
+            "long": "-122.723465",
+            "url": "/plants/view/6971"
+        },
+        {
+            "id": 4698,
+            "title": "Pacific Coast Pellets",
+            "city": "Shelton",
+            "state": "WA",
+            "lat": "47.248415",
+            "long": "-123.097051",
+            "url": "/plants/view/4698"
+        },
+        {
+            "id": 6842,
+            "title": "Pacific Pellet ",
+            "city": "Redmond",
+            "state": "OR",
+            "lat": "44.279827",
+            "long": "-121.163522",
+            "url": "/plants/view/6842"
+        },
+        {
+            "id": 6843,
+            "title": "Patterson Wood Products ",
+            "city": "Nacogdoches",
+            "state": "TX",
+            "lat": "31.619512",
+            "long": "-94.687102",
+            "url": "/plants/view/6843"
+        },
+        {
+            "id": 6844,
+            "title": "Pellet America Corp.",
+            "city": "Appleton",
+            "state": "WI",
+            "lat": "44.254273",
+            "long": "-88.447623",
+            "url": "/plants/view/6844"
+        },
+        {
+            "id": 6845,
+            "title": "Pellheat Inc.",
+            "city": "Glen Hope",
+            "state": "PA",
+            "lat": "40.796055",
+            "long": "-78.494399",
+            "url": "/plants/view/6845"
+        },
+        {
+            "id": 6846,
+            "title": "Penn Wood Products ",
+            "city": "East Berlin",
+            "state": "PA",
+            "lat": "39.936399",
+            "long": "-76.981612",
+            "url": "/plants/view/6846"
+        },
+        {
+            "id": 6979,
+            "title": "Pinnacle Renewable Energy-Smithers",
+            "city": "Smithers",
+            "state": "BC",
+            "lat": "54.782355",
+            "long": "-127.168554",
+            "url": "/plants/view/6979"
+        },
+        {
+            "id": 6978,
+            "title": "Pinnacle Renewable Energy-Lavington",
+            "city": "Coldstream",
+            "state": "BC",
+            "lat": "50.23347",
+            "long": "-119.10062",
+            "url": "/plants/view/6978"
+        },
+        {
+            "id": 6977,
+            "title": "Pinnacle Renewable Energy Inc.-Williams Lake",
+            "city": "Williams Lake",
+            "state": "BC",
+            "lat": "52.118408",
+            "long": "-122.139452",
+            "url": "/plants/view/6977"
+        },
+        {
+            "id": 6976,
+            "title": "Pinnacle Renewable Energy Inc.-Meadowbank",
+            "city": "Strathnaver",
+            "state": "BC",
+            "lat": "53.277483",
+            "long": "-122.470953",
+            "url": "/plants/view/6976"
+        },
+        {
+            "id": 6975,
+            "title": "Pinnacle Renewable Energy Inc.-Burns Lake",
+            "city": "Burns Lake",
+            "state": "BC",
+            "lat": "54.223813",
+            "long": "-125.754385",
+            "url": "/plants/view/6975"
+        },
+        {
+            "id": 6974,
+            "title": "Pinnacle Renewable Energy Inc.-Armstrong",
+            "city": "Armstrong",
+            "state": "BC",
+            "lat": "50.447247",
+            "long": "-119.195676",
+            "url": "/plants/view/6974"
+        },
+        {
+            "id": 6973,
+            "title": "Houston Pellet Limited Partnership",
+            "city": "Houston",
+            "state": "BC",
+            "lat": "54.385795",
+            "long": "-126.729117",
+            "url": "/plants/view/6973"
+        },
+        {
+            "id": 6972,
+            "title": "Pinnacle Renewable Energy-Entwistle",
+            "city": "Entwistle",
+            "state": "AB",
+            "lat": "53.591125",
+            "long": "-114.989931",
+            "url": "/plants/view/6972"
+        },
+        {
+            "id": 6980,
+            "title": "Premium Pellet",
+            "city": "Vanderhoof",
+            "state": "BC",
+            "lat": "54.01485",
+            "long": "-124.0465",
+            "url": "/plants/view/6980"
+        },
+        {
+            "id": 6981,
+            "title": "Eagle Valley Fuel Pellets",
+            "city": "Princeton",
+            "state": "BC",
+            "lat": "49.467686",
+            "long": "-120.489079",
+            "url": "/plants/view/6981"
+        },
+        {
+            "id": 2343,
+            "title": "Lemhi Valley Pellets",
+            "city": "Salmon",
+            "state": "ID",
+            "lat": "45.03365",
+            "long": "-113.66816",
+            "url": "/plants/view/2343"
+        },
+        {
+            "id": 6847,
+            "title": "Renewable Fuels of Vermont",
+            "city": "West Windsor",
+            "state": "VT",
+            "lat": "43.469078",
+            "long": "-72.529755",
+            "url": "/plants/view/6847"
+        },
+        {
+            "id": 6982,
+            "title": "Rentech-Wawa (IDLE)",
+            "city": "Wawa",
+            "state": "ON",
+            "lat": "47.945578",
+            "long": "-84.544984",
+            "url": "/plants/view/6982"
+        },
+        {
+            "id": 6983,
+            "title": "Thunder Bay Pellet Plant",
+            "city": "Thunder Bay",
+            "state": "ON",
+            "lat": "48.359173",
+            "long": "-89.233286",
+            "url": "/plants/view/6983"
+        },
+        {
+            "id": 6848,
+            "title": "Rocky Canyon Pellet ",
+            "city": "Grangeville",
+            "state": "ID",
+            "lat": "45.940802",
+            "long": "-116.149575",
+            "url": "/plants/view/6848"
+        },
+        {
+            "id": 6849,
+            "title": "Georgia Biomass",
+            "city": "Waycross",
+            "state": "GA",
+            "lat": "31.25774",
+            "long": "-82.41051",
+            "url": "/plants/view/6849"
+        },
+        {
+            "id": 6985,
+            "title": "Shaw Resources-Shubenacadie",
+            "city": "Shubenacadie",
+            "state": "NS",
+            "lat": "45.052796",
+            "long": "-63.450402",
+            "url": "/plants/view/6985"
+        },
+        {
+            "id": 6984,
+            "title": "Shaw Resources-Belledune",
+            "city": "Belledune",
+            "state": "NB",
+            "lat": "47.901714",
+            "long": "-65.887241",
+            "url": "/plants/view/6984"
+        },
+        {
+            "id": 6850,
+            "title": "Smith Creek",
+            "city": "Borden",
+            "state": "IN",
+            "lat": "38.403278",
+            "long": "-85.937967",
+            "url": "/plants/view/6850"
+        },
+        {
+            "id": 6851,
+            "title": "Smith Flooring ",
+            "city": "Mountain View",
+            "state": "MO",
+            "lat": "37.000907",
+            "long": "-91.676944",
+            "url": "/plants/view/6851"
+        },
+        {
+            "id": 6852,
+            "title": "Snow Timber Pellets ",
+            "city": "Hurley",
+            "state": "WI",
+            "lat": "46.436233",
+            "long": "-90.205833",
+            "url": "/plants/view/6852"
+        },
+        {
+            "id": 4691,
+            "title": "New Biomass Energy LLC",
+            "city": "Quitman",
+            "state": "MS",
+            "lat": "32.04608",
+            "long": "-88.73202",
+            "url": "/plants/view/4691"
+        },
+        {
+            "id": 6853,
+            "title": "Somerset Pellet Fuel",
+            "city": "Somerset",
+            "state": "KY",
+            "lat": "37.141255",
+            "long": "-84.631281",
+            "url": "/plants/view/6853"
+        },
+        {
+            "id": 6854,
+            "title": "Southern Indiana Hardwoods",
+            "city": "Huntingburg",
+            "state": "IN",
+            "lat": "38.337129",
+            "long": "-86.859809",
+            "url": "/plants/view/6854"
+        },
+        {
+            "id": 6855,
+            "title": "Southern Kentucky Pellet Mill ",
+            "city": "Gamaliel",
+            "state": "KY",
+            "lat": "36.635441",
+            "long": "-85.794814",
+            "url": "/plants/view/6855"
+        },
+        {
+            "id": 6998,
+            "title": "Southwest Renewable Resources (IDLE)",
+            "city": "Snowflake",
+            "state": "AZ",
+            "lat": "34.488698",
+            "long": "-110.248753",
+            "url": "/plants/view/6998"
+        },
+        {
+            "id": 6986,
+            "title": "Swan Pellets",
+            "city": "Swan River",
+            "state": "MB",
+            "lat": "52.11083",
+            "long": "-101.250176",
+            "url": "/plants/view/6986"
+        },
+        {
+            "id": 6857,
+            "title": "Sugar Creek Shavings",
+            "city": "Sugar Creek",
+            "state": "OH",
+            "lat": "40.523383",
+            "long": "-81.612403",
+            "url": "/plants/view/6857"
+        },
+        {
+            "id": 6858,
+            "title": "Superior Pellet Fuels ",
+            "city": "North Pole",
+            "state": "AK",
+            "lat": "64.796114",
+            "long": "-147.564164",
+            "url": "/plants/view/6858"
+        },
+        {
+            "id": 6987,
+            "title": "T.P. Downey & Sons (IDLE)",
+            "city": "Weldon",
+            "state": "NB",
+            "lat": "45.94582",
+            "long": "-64.688461",
+            "url": "/plants/view/6987"
+        },
+        {
+            "id": 3076,
+            "title": "Westervelt Renewable Energy LLC",
+            "city": "Aliceville",
+            "state": "AL",
+            "lat": "33.075241",
+            "long": "-88.24373",
+            "url": "/plants/view/3076"
+        },
+        {
+            "id": 6859,
+            "title": "Thunderbolt Biomass",
+            "city": "Allendale",
+            "state": "SC",
+            "lat": "33.018907",
+            "long": "-81.317306",
+            "url": "/plants/view/6859"
+        },
+        {
+            "id": 6860,
+            "title": "Trae Fuels Ltd.-Pellet Plant",
+            "city": "Bumpass",
+            "state": "VA",
+            "lat": "37.963147",
+            "long": "-77.775961",
+            "url": "/plants/view/6860"
+        },
+        {
+            "id": 6988,
+            "title": "Atikokan Pellet Plant",
+            "city": "Atikokan",
+            "state": "ON",
+            "lat": "48.760337",
+            "long": "-91.636209",
+            "url": "/plants/view/6988"
+        },
+        {
+            "id": 6861,
+            "title": "Turman Hardwood Pellets",
+            "city": "Galax",
+            "state": "VA",
+            "lat": "36.650187",
+            "long": "-80.938492",
+            "url": "/plants/view/6861"
+        },
+        {
+            "id": 5223,
+            "title": "Instantheat Wood Pellets Inc.",
+            "city": "Addison",
+            "state": "NY",
+            "lat": "42.08765",
+            "long": "-77.245319",
+            "url": "/plants/view/5223"
+        },
+        {
+            "id": 6989,
+            "title": "Vanderhoof Specialty Wood Products",
+            "city": "Vanderhoof",
+            "state": "BC",
+            "lat": "54.024739",
+            "long": "-124.086285",
+            "url": "/plants/view/6989"
+        },
+        {
+            "id": 6990,
+            "title": "Vanderwell Contractors ",
+            "city": "Slave Lake",
+            "state": "AB",
+            "lat": "55.2829",
+            "long": "-114.76967",
+            "url": "/plants/view/6990"
+        },
+        {
+            "id": 3367,
+            "title": "Varn Wood Pellets",
+            "city": "Hoboken",
+            "state": "GA",
+            "lat": "31.1831",
+            "long": "-82.13749",
+            "url": "/plants/view/3367"
+        },
+        {
+            "id": 6862,
+            "title": "Vermont Wood Pellet ",
+            "city": "North Clarendon",
+            "state": "VT",
+            "lat": "43.529136",
+            "long": "-72.957185",
+            "url": "/plants/view/6862"
+        },
+        {
+            "id": 6863,
+            "title": "Vulcan Wood Products",
+            "city": "Vulcan",
+            "state": "MI",
+            "lat": "45.774595",
+            "long": "-87.840184",
+            "url": "/plants/view/6863"
+        },
+        {
+            "id": 6991,
+            "title": "West Nova Agro Commodities",
+            "city": "Lawrencetown",
+            "state": "NS",
+            "lat": "44.900407",
+            "long": "null",
+            "url": "/plants/view/6991"
+        },
+        {
+            "id": 6864,
+            "title": "Western Wood Products",
+            "city": "Raton",
+            "state": "NM",
+            "lat": "36.857437",
+            "long": "-104.46986",
+            "url": "/plants/view/6864"
+        },
+        {
+            "id": 6865,
+            "title": "Westwind Logistics",
+            "city": "Des Moines",
+            "state": "IA",
+            "lat": "41.587008",
+            "long": "-93.55238",
+            "url": "/plants/view/6865"
+        },
+        {
+            "id": 6992,
+            "title": "Sagatay Wood Pellets LP",
+            "city": "Armstrong",
+            "state": "ON",
+            "lat": "50.282748",
+            "long": "-89.044085",
+            "url": "/plants/view/6992"
+        },
+        {
+            "id": 6866,
+            "title": "Woodscape of Utah",
+            "city": "Salt Lake City",
+            "state": "UT",
+            "lat": "40.750371",
+            "long": "-111.968213",
+            "url": "/plants/view/6866"
+        },
+        {
+            "id": 6868,
+            "title": "Zilkha Biomass-Crockett",
+            "city": "Houston",
+            "state": "TX",
+            "lat": "31.294166",
+            "long": "-95.46754",
+            "url": "/plants/view/6868"
+        },
+        {
+            "id": 6867,
+            "title": "Zilkha Biomass-Selma",
+            "city": "Selma",
+            "state": "AL",
+            "lat": "32.415944",
+            "long": "-86.869878",
+            "url": "/plants/view/6867"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+﻿# ignore `tmp` folder which makes it easier to unpack the shapefiles for county lines.
+tmp/
+
+# ignore the `.ipynb_checkpoints` folder which is a manual save that doesn't need to be shared externally in git (git already tracks histories).
+.ipynb_checkpoints
